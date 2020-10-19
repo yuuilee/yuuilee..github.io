@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>抢跑计划（一）</title>
-    <link href="/Basic%20practice/"/>
-    <url>/Basic%20practice/</url>
+    <title>初级实务笔记：#3 - 会计科目</title>
+    <link href="/Primary%20practice-3/"/>
+    <url>/Primary%20practice-3/</url>
     
-    <content type="html"><![CDATA[<h3 id="第一节课笔记"><a href="#第一节课笔记" class="headerlink" title="第一节课笔记"></a>第一节课笔记</h3><p><img src="https://i.loli.net/2020/10/08/5zZiKEyLxsIB6Xk.png" alt="5zZiKEyLxsIB6Xk"></p><h3 id="第二节课笔记"><a href="#第二节课笔记" class="headerlink" title="第二节课笔记"></a>第二节课笔记</h3><p><img src="https://i.loli.net/2020/10/08/pXLcTdDZHAyjPub.png" alt="pXLcTdDZHAyjPub"></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="3-会计科目"><a href="#3-会计科目" class="headerlink" title="#3 会计科目"></a>#3 会计科目</h3><p><img src="https://i.loli.net/2020/10/19/21M4hvl8xaDG39Q.png" alt="21M4hvl8xaDG39Q"></p><h4 id="会计科目表-资产"><a href="#会计科目表-资产" class="headerlink" title="会计科目表-资产"></a>会计科目表-资产</h4><p><img src="https://i.loli.net/2020/10/19/EBv1GPtQHFOjm3h.png" alt="EBv1GPtQHFOjm3h"></p><h4 id="会计科目表-负债"><a href="#会计科目表-负债" class="headerlink" title="会计科目表-负债"></a>会计科目表-负债</h4><p><img src="https://i.loli.net/2020/10/19/v3wpcNFsS1T9DtU.png" alt="v3wpcNFsS1T9DtU"></p><h4 id="会计科目表-所有者权益和成本"><a href="#会计科目表-所有者权益和成本" class="headerlink" title="会计科目表-所有者权益和成本"></a>会计科目表-所有者权益和成本</h4><p><img src="https://i.loli.net/2020/10/19/471o3smkYlFcf6y.png" alt="471o3smkYlFcf6y"></p><h4 id="会计科目表-损益"><a href="#会计科目表-损益" class="headerlink" title="会计科目表-损益"></a>会计科目表-损益</h4><p><img src="https://i.loli.net/2020/10/19/MvfN9bDd1mQp2q6.png" alt="MvfN9bDd1mQp2q6"></p>]]></content>
     
     
     <categories>
@@ -23,6 +23,87 @@
       <tag>会计</tag>
       
       <tag>初级实务</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>初级实务笔记：#2 - 会计要素的确认和计量</title>
+    <link href="/Primary%20practice-2/"/>
+    <url>/Primary%20practice-2/</url>
+    
+    <content type="html"><![CDATA[<h3 id="2-会计要素的确认和计量"><a href="#2-会计要素的确认和计量" class="headerlink" title="#2 会计要素的确认和计量"></a>#2 会计要素的确认和计量</h3><p><img src="https://i.loli.net/2020/10/19/HWQqIK9hurwObfV.png" alt="HWQqIK9hurwObfV"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>会计</tag>
+      
+      <tag>初级实务</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>初级实务笔记：#1 - 基础知识</title>
+    <link href="/Primary%20practice-1/"/>
+    <url>/Primary%20practice-1/</url>
+    
+    <content type="html"><![CDATA[<h3 id="1-基础知识"><a href="#1-基础知识" class="headerlink" title="#1 基础知识"></a>#1 基础知识</h3><p><img src="https://i.loli.net/2020/10/08/5zZiKEyLxsIB6Xk.png" alt="5zZiKEyLxsIB6Xk"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>会计</tag>
+      
+      <tag>初级实务</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Sketch 快捷键</title>
+    <link href="/Sketch%20shortcut%20key/"/>
+    <url>/Sketch%20shortcut%20key/</url>
+    
+    <content type="html"><![CDATA[<p><strong>一、等距离复制图形</strong></p><p>A.选中元素，按住 Option/Alt 不放，就是复制，拖动到合适的位置</p><p>B. 保持元素选中状态，连续按 Command+D ，就可以等距离复制了</p><p><strong>二、拾色器</strong></p><p>A. 选中文字或形状后，按下 Ctrl + C，就会出现拾色器，改变文字的颜色和形状的填充色。也可以用拾色器选取 Sketch 外其他软件的颜色</p><p><strong>三、查看任意对象之间的距离</strong></p><p>A. 选中对象按 Alt 键，可以查看对象与其他对象之间的距离，但当其他对象处于编组中时，默认查看的是对象与编组的距离。</p><p>B. 查看对象与其他组内对象的距离，我们可以同时按住 Alt + Cmd，就可以查看任意两个对象之间的距离啦</p><p><strong>四、复制、粘贴文字或形状样式</strong> </p><p>A. 按 Alt + Command + C 复制文字或形状的样式后，可以通过 Alt + Command + V 粘贴到其他对象上(有点像 word 里的格式刷)</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Sketch</tag>
+      
+      <tag>快捷键</tag>
       
     </tags>
     
@@ -60,7 +141,7 @@
     <link href="/QR%20code/"/>
     <url>/QR%20code/</url>
     
-    <content type="html"><![CDATA[<p><strong>一、登录草料</strong></p><p><a href="https://console.cli.im/company/business">https://console.cli.im/company/business</a></p><p><strong>二、二维码生成步骤</strong></p><p>A. 选择文本生成二维码</p><p><img src="https://i.loli.net/2020/10/09/e7KEDWIa6lvLsot.png" alt="e7KEDWIa6lvLsot"></p><p>B. 上传图标</p><p><img src="https://i.loli.net/2020/10/09/DUrvLqCVwNKbHJi.png" alt="DUrvLqCVwNKbHJi"></p><p>三、<strong>二维码验证步骤</strong></p><p>A. 解析二维码，核对链接是否有误</p><p>![image-20201009153357730](/Users/yuuilee/Library/Application Support/typora-user-images/image-20201009153357730.png)</p><p>B. Android 手机验证 ：微信、QQ、自带浏览器</p><p>C. iOS 手机验证：微信、QQ</p><p>四、<strong>二维码命名规范</strong></p><p>qrcode（二维码）-app（应用）-download（下载）-应用名称</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>一、登录草料</strong></p><p><a href="https://console.cli.im/company/business">https://console.cli.im/company/business</a></p><p><strong>二、二维码生成步骤</strong></p><p>A. 选择文本生成二维码</p><p><img src="https://i.loli.net/2020/10/09/e7KEDWIa6lvLsot.png" alt="e7KEDWIa6lvLsot"></p><p>B. 上传图标</p><p><img src="https://i.loli.net/2020/10/09/DUrvLqCVwNKbHJi.png" alt="DUrvLqCVwNKbHJi"></p><p>三、<strong>二维码验证步骤</strong></p><p>A. 解析二维码，核对链接是否有误</p><p><img src="https://i.loli.net/2020/10/19/xlSDjoXQLeHhZ2N.png" alt="xlSDjoXQLeHhZ2N"></p><p>B. Android 手机验证 ：微信、QQ、自带浏览器</p><p>C. iOS 手机验证：微信、QQ</p><p>四、<strong>二维码命名规范</strong></p><p>qrcode（二维码）-app（应用）-download（下载）-应用名称</p>]]></content>
     
     
     <categories>
@@ -73,6 +154,31 @@
     <tags>
       
       <tag>草料</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Sketch 临摹炫彩时尚图标</title>
+    <link href="/Sketch%20copy%20colorful%20fashion%20icon/"/>
+    <url>/Sketch%20copy%20colorful%20fashion%20icon/</url>
+    
+    <content type="html"><![CDATA[<ol><li>打开【Sketch】，【A】新建画板 400*300</li></ol><p><img src="https://i.loli.net/2020/10/14/YCbpsLdqIHhUn7i.png" alt="YCbpsLdqIHhUn7i"></p><ol start="2"><li>【R】绘制矩形，关闭【描边】填充为【紫色 A002FF】，添加【渐变】，再次添加【渐变】，将混合模式改为【叠加】400*300</li></ol><p>![image-20201014114959219](/Users/yuuilee/Library/Application Support/typora-user-images/image-20201014114959219.png)</p><ol start="3"><li>【文件】-【从模板新建】【ios应用图标】复制一个图层过来 152*152</li></ol><p><img src="https://i.loli.net/2020/10/14/zNVdpB7R2mCO8xJ.png" alt="zNVdpB7R2mCO8xJ"></p><ol start="4"><li><p>将图标填充【白色 FFFFFF】再填充第二个【粉色 FCA3FF】透明度为【10％】</p></li><li><p>【O】绘制正圆 124*124，填充【渐变：E500E7,00D7FF】</p></li><li><p>继续【O】绘制圆形 58*58，添加【渐变：FFDBFF,FCF2FC】【内阴影：白色，0，1，3/C085C8，0，-1，3】</p></li><li><p>再【O】绘制正圆 128*128</p></li><li><p>继续【O】绘制正圆放在底层 116*116</p></li><li><p>选择 128<em>128 和 116</em>116 正圆【减去顶层】添加【渐变：F698FF,BDB6FF,FFF3FF】</p></li><li><p>重复制作正圆 144*144, 添加【渐变：FFFFFF,DF80FF】，添加模糊效果【3】，透明度【44】</p></li><li><p>彩色图层添加【内阴影：黑色，透明度 64，0，0，10/0，7，9】</p></li><li><p>矩形图层添加【内阴影：E187FF,透明度90，0，-5，6/白色，透明度100，0，5，6】</p></li><li><p>再【O】绘制正圆 48*48，添加【渐变：白色，透明度0/黑色】叠加图层</p></li><li><p>矩形图层添加【阴影：000000，透明度42，0，10，16/000000，透明度34，0，4，14/000000，透明度24，0，2，2】</p></li><li><p>复制粘贴矩形图层，去掉全部效果，填充为黑色，按住【shift】点击向下箭头三次，透明度【20】，模糊【7】</p></li><li><p>复制粘贴中心圆图层，去掉全部效果，填充为黑色，按住【shift】点击向下箭头三次，透明度【10】，模糊【4】</p></li><li><p>复制粘贴中心圆图层，去掉全部效果，填充为黑色，按住确认健往下拉【58*68】，透明度【20】，模糊【8】</p></li><li><p>复制粘贴【58<em>68】图层，更改大小【68</em>80】，叠加图层，透明度【40】，模糊【8】</p></li><li><p>中心圆图层添加阴影，【黑色，透明度60，0，1，2，叠加/黑色，透明度14，0，3，4/黑色，透明度50，0，2，4】</p></li><li><p>细节调整：【U】绘制圆角矩形 8*3，半径3【CA2DEA,透明度40】【阴影白色，透明度46，0，1，0】【内阴影黑色，透明度40，0，1，0，叠加效果】</p></li><li><p>【O】绘制圆角矩形 8<em>8，白色，增加叠加效果，在和圆角矩形 6</em>6【减去顶层】，复制粘贴该图层移动到右边去掉圆角矩形 6*6</p></li><li><p>效果如图所示</p></li></ol><p><img src="https://i.loli.net/2020/10/14/idPeQwZKntr8jHJ.png" alt="ZK3Lzk.png"><br>23. 总结</p><p>A. 每画一个图层要记得要居中对齐</p><p>B. 图层使用叠加的效果，可以在画面中凸显</p><p>C. 渐变角度很重要，可以制造出高低起伏的感觉</p><p>D. 通过调整投影透明度，让投影看起来更柔和，与背景的贴合度更高</p><p>E. 每个图层都要重命名，方便自己快速定位对应图层</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>记录</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Sketch</tag>
       
     </tags>
     
@@ -108,6 +214,110 @@
   
   
   <entry>
+    <title>Sketch 学习软件操作</title>
+    <link href="/Sketch%20learning%20software%20operation/"/>
+    <url>/Sketch%20learning%20software%20operation/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一、形状间的插入与编辑"><a href="#一、形状间的插入与编辑" class="headerlink" title="一、形状间的插入与编辑"></a><strong>一、形状间的插入与编辑</strong></h1><ol><li>形状认识和操作</li></ol><p>![image-20201014120012108](/Users/yuuilee/Library/Application Support/typora-user-images/image-20201014120012108.png)</p><h1 id="二、形状间的布尔运算"><a href="#二、形状间的布尔运算" class="headerlink" title="二、形状间的布尔运算"></a><strong>二、形状间的布尔运算</strong></h1><ol><li>跟着教程画了 3 个小图标</li></ol><p><img src="https://i.loli.net/2020/10/14/YwPoXGFaLvOljmE.png" alt="YwPoXGFaLvOljmE"></p><h1 id="三、图层样式"><a href="#三、图层样式" class="headerlink" title="三、图层样式"></a><strong>三、图层样式</strong></h1><ol><li>从上到下：位置、大小、变换（旋转/翻转）、填充、描边、阴影、内阴影、模糊</li></ol><p><img src="" alt="zU8W3sXBET9Cjg2"><br>2.  半径、共享样式、不透明度</p><p>![image-20201014120220196](/Users/yuuilee/Library/Application Support/typora-user-images/image-20201014120220196.png)</p><h1 id="四、工具栏调整与使用"><a href="#四、工具栏调整与使用" class="headerlink" title="四、工具栏调整与使用"></a><strong>四、工具栏调整与使用</strong></h1><ol><li>合并形状，剪去顶层 区域相交 排除重叠</li></ol><p><img src="https://i.loli.net/2020/10/14/giqOwLP6DuyWb7r.png" alt="giqOwLP6DuyWb7r"></p><ol start="2"><li>创建组件、分组、取消分组</li></ol><p><img src="https://i.loli.net/2020/10/14/EoPZB4keJiwhR5p.png" alt="EoPZB4keJiwhR5p"></p><ol start="3"><li>编辑、变换、旋转、拼合、蒙板、缩放、创建网格</li></ol><p><img src="https://i.loli.net/2020/10/14/Q7ytS8Zw1bjVnue.png" alt="Q7ytS8Zw1bjVnue"></p><h1 id="五、图片和文本"><a href="#五、图片和文本" class="headerlink" title="五、图片和文本"></a><strong>五、图片和文本</strong></h1><h1 id="六、复用样式与符号"><a href="#六、复用样式与符号" class="headerlink" title="六、复用样式与符号"></a><strong>六、复用样式与符号</strong></h1><ol><li><p>统一改变字体、图标</p></li><li><p>复用符号</p></li></ol><p><img src="https://i.loli.net/2020/10/14/9EqdcaHPTLYG5Nn.png" alt="9EqdcaHPTLYG5Nn"></p><h1 id="七、导出与标注"><a href="#七、导出与标注" class="headerlink" title="七、导出与标注"></a><strong>七、导出与标注</strong></h1><ol><li><p>拉出导出</p></li><li><p>图标导出插件</p></li></ol><p><img src="https://i.loli.net/2020/10/14/H5WOA9Uqvd4jcMm.png" alt="H5WOA9Uqvd4jcMm"></p><p><img src="https://i.loli.net/2020/10/14/VOtny4IgPkLYuzc.png" alt="VOtny4IgPkLYuzc"></p><ol start="3"><li>网页导出插件</li></ol><p><img src="https://i.loli.net/2020/10/14/kMVfhyjzqbWdeuw.png" alt="kMVfhyjzqbWdeuw"></p><h1 id="八、插件使用与安装"><a href="#八、插件使用与安装" class="headerlink" title="八、插件使用与安装"></a><strong>八、插件使用与安装</strong></h1><ol><li>Sketch 插件网站</li></ol><p><img src="https://i.loli.net/2020/10/14/d9KEsAqwgH6b8GP.png" alt="d9KEsAqwgH6b8GP"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Sketch</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>PS 工具介绍（二）</title>
+    <link href="/Introduction%20of%20PS%20tools%20(2)/"/>
+    <url>/Introduction%20of%20PS%20tools%20(2)/</url>
+    
+    <content type="html"><![CDATA[<h1 id="三、PS-中的蒙版"><a href="#三、PS-中的蒙版" class="headerlink" title="三、PS 中的蒙版"></a><strong>三、PS 中的蒙版</strong></h1><p><strong>图层蒙版</strong></p><ol><li>command+j 快速复制图层</li></ol><p><strong>快速蒙版</strong></p><ol><li><p>用快速选择工具选择大致选出一个范围，在按 Q （快速蒙版快捷键）</p></li><li><p>使用画笔工具，白色是把红色区域多选中的地方擦除，黑色是没有选中的地方选择</p></li><li><p>切换前景色后景色快捷键： X</p></li></ol><p><img src="https://i.loli.net/2020/10/14/QrCAGXNcUiD5fkW.png" alt="lBSIYu.png"></p><ol start="4"><li>画笔快捷键：B</li></ol><p><strong>剪贴蒙版</strong></p><ol><li>使用调整功能里面的色彩平衡</li></ol><h1 id="四、修复和图章"><a href="#四、修复和图章" class="headerlink" title="四、修复和图章"></a><strong>四、修复和图章</strong></h1><ol><li><p>污点修复工具、修复画笔工具、修补工具：在缺失的地方，画个圈然后移动到你想选择图复制、内容感知工具、红眼工具</p></li><li><p>仿制图章、图案图章：按住 option 键，可以复制定义想要的图</p></li></ol><p><img src="https://i.loli.net/2020/10/14/8EXz3iqYxMR1heB.png" alt="8EXz3iqYxMR1heB"></p><ol start="3"><li>内容识别快捷键：Shift+F5 修复效果类似于污点修复工具</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>PS</tag>
+      
+      <tag>工具</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>PS 工具介绍（一）</title>
+    <link href="/Introduction%20of%20PS%20tools%20(1)/"/>
+    <url>/Introduction%20of%20PS%20tools%20(1)/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一、选区工具组"><a href="#一、选区工具组" class="headerlink" title="一、选区工具组"></a><strong>一、选区工具组</strong></h1><p><strong>选框工具</strong></p><p><img src="https://i.loli.net/2020/10/14/utfpFqDEnN2SI5Y.png" alt="LPy7FO.png"></p><ol><li><p>快捷键：m</p></li><li><p>shift+m：切换椭圆选框</p></li><li><p>按住 shift 键拉出来是正圆</p></li><li><p>按住空格键是移动选区的位置</p></li></ol><p><strong>魔棒</strong></p><p><img src="https://i.loli.net/2020/10/14/YSuvEARH3z2QZDd.png" alt="YSuvEARH3z2QZDd"></p><ol><li><p>分辨图片中不同色彩</p></li><li><p>容差越大，选择范围越粗糙；容差越小，选择范围越精细</p></li></ol><p><strong>快速选择工具</strong></p><p><img src="https://i.loli.net/2020/10/14/FhKOWcJMIj2lNAn.png" alt="8zHIbH.png"></p><p><strong>套索工具</strong></p><p><img src="https://i.loli.net/2020/10/14/UpedWOnVoSMPwNQ.png" alt="mdbTIo.png"></p><ol><li>shift+m：切换多边形套索工具（折线的画形状）/磁性套索工具（根据轨迹走，画错无法修改）</li></ol><h1 id="二、色彩范围"><a href="#二、色彩范围" class="headerlink" title="二、色彩范围"></a><strong>二、色彩范围</strong></h1><p><strong>选择-取样颜色</strong></p><p><img src="https://i.loli.net/2020/10/14/x8MOQUF62d1INgj.png" alt="mh1xig.png"></p><ol><li>被选择是白色，没有被选择是黑色</li><li>按住 shift 键：加选</li><li>按住 option 键：减号</li><li>选择套索工具，按住 option 减去不应该选上的地方给减去</li><li>选择魔棒工具，按住 shift 加选</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>PS</tag>
+      
+      <tag>工具</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>PS 入门学习</title>
+    <link href="/PS%20introduction%20learning/"/>
+    <url>/PS%20introduction%20learning/</url>
+    
+    <content type="html"><![CDATA[<h1 id="第一节：软件入门"><a href="#第一节：软件入门" class="headerlink" title="第一节：软件入门"></a><strong>第一节：软件入门</strong></h1><p>安装 ps</p><h1 id="第二节：界面介绍、新建和存储"><a href="#第二节：界面介绍、新建和存储" class="headerlink" title="第二节：界面介绍、新建和存储"></a><strong>第二节：界面介绍、新建和存储</strong></h1><p>新建文件：command+n</p><p>打开：command+s</p><p>关闭：command+w</p><p>另存储：command+shift+s</p><p>图片品质越高，文件越大（建议选择8-10）</p><p><img src="https://i.loli.net/2020/10/14/s5GQw1KRtv9S62D.png" alt="s5GQw1KRtv9S62D"></p><p>常用保存图片格式：jpg、png、gif</p><p>有透明图片请用 png 24 导出</p><p><img src="https://i.loli.net/2020/10/14/c8IVBk9d5rnWjOD.png" alt="c8IVBk9d5rnWjOD"></p><h1 id="第三节：提高运行效率"><a href="#第三节：提高运行效率" class="headerlink" title="第三节：提高运行效率"></a><strong>第三节：提高运行效率</strong></h1><p>打开首选项：option+command+k</p><p>撤销：option+command+z</p><p>修改首选项（主要修改性能和暂存盘），需重启 ps 才生效</p><p><img src="https://i.loli.net/2020/10/14/evktTmZ4qPA918o.png" alt="evktTmZ4qPA918o"></p><p><img src="https://i.loli.net/2020/10/14/tWgdcRnVjbG25AU.png" alt="tWgdcRnVjbG25AU"></p><h1 id="第四节：有效记忆快捷键"><a href="#第四节：有效记忆快捷键" class="headerlink" title="第四节：有效记忆快捷键"></a><strong>第四节：有效记忆快捷键</strong></h1><p><img src="https://i.loli.net/2020/10/14/XHN23z6PQvJmaIe.png" alt="n9oVvC.png"></p><p>取消：command+d</p><p>自由变换：command+t</p><p>自定义快捷键</p><p><img src="https://i.loli.net/2020/10/14/QmAlbjGrawMITH3.png" alt="8tu8V3.png"></p><h1 id="第五节：色彩模式、图像大小"><a href="#第五节：色彩模式、图像大小" class="headerlink" title="第五节：色彩模式、图像大小"></a><strong>第五节：色彩模式、图像大小</strong></h1><p>图片需打印新建的画布就要选择cmyk</p><p><img src="https://i.loli.net/2020/10/14/mKzACMiWnhUogY7.png" alt="mKzACMiWnhUogY7"></p><p>画布大小：command+option+c</p><p>图像大小：command+option+I</p><p><img src="https://i.loli.net/2020/10/14/RTUzfw1jQqXp4Ib.png" alt="ixxozq.png"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>PS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Andriod 截图工具-Vysor</title>
     <link href="/Vysor/"/>
     <url>/Vysor/</url>
@@ -127,6 +337,60 @@
       <tag>Vysor</tag>
       
       <tag>截图工具</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Android 和 iOS 设计规范</title>
+    <link href="/Android%20and%20IOS%20design%20specification/"/>
+    <url>/Android%20and%20IOS%20design%20specification/</url>
+    
+    <content type="html"><![CDATA[<h2 id="iOS-设计规范"><a href="#iOS-设计规范" class="headerlink" title="iOS 设计规范"></a><strong>iOS 设计规范</strong></h2><ol><li>常用尺寸：750*1334px</li></ol><p><img src="https://i.loli.net/2020/10/14/5Gnu6LqxZUthH4o.png" alt="5Gnu6LqxZUthH4o"></p><ol start="2"><li><p>状态栏：放信号、日期、电量</p></li><li><p>导航栏：用于实现在应用不同信息层级结构间的导航，有时也可用于管理当前屏幕内容</p></li><li><p>标签栏：一般3-5个图标，超过5个则第五个用更多图标表示。在不同对子任务、视图、模式切换</p></li><li><p>工具栏：放置操作当前屏幕中各对象的控件；工具栏上既可以放icon，也可以放文字</p></li></ol><p><img src="https://i.loli.net/2020/10/14/SyH8RqsozcaPd69.png" alt="SyH8RqsozcaPd69"></p><ol start="6"><li>边距和间距</li></ol><p>1&gt;全局边距：页面内容到屏幕边缘的距离，常用的全局边距有32px、30px、24px、20px等等，有一个特点就是数值全是偶数。</p><p><img src="https://i.loli.net/2020/10/18/sWejxXKY4lnwPR1.png" alt="sWejxXKY4lnwPR1"></p><p>2&gt;卡片间距：通常最小不低于16px，使用最多的间距是20px、24px、30px、40px，间距的颜色设置可以与分割线一致，也可以更浅一些。</p><p><img src="https://i.loli.net/2020/10/14/GToyrx3fJRq4cew.png" alt="GToyrx3fJRq4cew"></p><ol start="7"><li>内容布局</li></ol><p>1&gt;列表式布局</p><p>2&gt;卡片式布局</p><ol start="8"><li>列表:对齐、对称、分组</li></ol><p><img src="https://i.loli.net/2020/10/14/dWf8XUgyR2vkMqh.png" alt="dWf8XUgyR2vkMqh"><img src="https://i.loli.net/2020/10/14/QWdYilvT1jBaRVx.png" alt="gLKFYi.png"></p><p><img src="https://i.loli.net/2020/10/14/Epz5s6XgR9ekxJc.png" alt="Epz5s6XgR9ekxJc"></p><ol start="9"><li><p>字体：苹方</p></li><li><p>字号大小（偶数）：一般在22-36之间</p></li></ol><p><img src="https://i.loli.net/2020/10/14/4Ao7rjE5xDwImLb.png" alt="4Ao7rjE5xDwImLb"></p><ol start="11"><li><p>图标尺寸</p><p>1&gt;可点击区域不小于44px</p></li></ol><p>2&gt;标签栏常用图标尺寸44、48、50px</p><p>3&gt;统一风格的图标</p><h2 id="Android-设计规范（需分情况：1dp-2px）"><a href="#Android-设计规范（需分情况：1dp-2px）" class="headerlink" title="Android 设计规范（需分情况：1dp=2px）"></a><strong>Android 设计规范（需分情况：1dp=2px）</strong></h2><ol><li>常用尺寸：720*1280px</li><li>状态栏：放信号、日期、电量</li><li>顶部应用栏：标题左对齐</li><li>标签栏：2-3个标签组成，图标过多时，左右滑动查看更多</li><li>底部导航栏：图标数量3-5之间，必须加文字</li><li>抽屉式导航：对应用功能页面切换</li></ol><p><img src="https://i.loli.net/2020/10/14/nZAoYi3pECge1IJ.png" alt="nZAoYi3pECge1IJ"></p><ol start="7"><li>间距：16px</li><li>字体：思源黑体</li><li>字号大小</li></ol><p>1&gt;顶部栏：16-20px之间</p><p>2&gt;正文：12-18px之间</p><p>3&gt;底部栏：10px</p><ol start="10"><li>图标尺寸</li></ol><p>1&gt;xhdpi：96px、76px（方行）、88px（圆形）、64*88px（长方形）</p><p>2&gt;xxhdpi:144px、114px（方行）、132px（圆形）、96*132px（长方形）</p><p>3&gt;xxxhdpi:192px、152px（方行）、176px（圆形）、128*176px（长方形）</p><p>4&gt;对称、简单、清晰度、线需统一大小</p><p>5&gt;常用图标尺寸：48px</p><p>6&gt;图标内容：40px（圆形）、36px（方形）、32*40px（长方形）</p><p>7&gt;图标的圆角大小0-8px之间</p><p>8&gt;图标触摸区域：96px</p><ol start="11"><li>边距</li></ol><p>1&gt;应用栏高度：56dp</p><p>2&gt;应用栏左右内边距：16dp</p><p>3&gt;应用栏图标上、下、左边距：16dp</p><p>4&gt;应用栏标题左边距：72dp</p><p>5&gt;应用栏标题下边距：20dp</p><p>6&gt;操作区域高度：56dp</p><p>7&gt;标题区域高度：80dp</p><p>8&gt;标题区域下边距：8dp</p><p>9&gt;描述区域高度：72dp</p><p>10&gt;描述区域下边距：16dp</p><p><img src="https://i.loli.net/2020/10/14/hxCiA9Vy4knEpfl.png" alt="hxCiA9Vy4knEpfl"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Android</tag>
+      
+      <tag>iOS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>设计尺寸与比例关系</title>
+    <link href="/Design%20dimension%20and%20proportion/"/>
+    <url>/Design%20dimension%20and%20proportion/</url>
+    
+    <content type="html"><![CDATA[<h2 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a><strong>iOS</strong></h2><p><strong>1.存在 1、2、3 倍数关系</strong></p><p>*<em>2.常用尺寸：750</em>1334px**</p><p><img src="https://i.loli.net/2020/10/14/2PVU6TghdLWEsqc.png" alt="2PVU6TghdLWEsqc"></p><p><strong>3.750×1334向下适配640×1136</strong></p><p>1&gt;首先打开750x1334px的设计稿，执行 Command+Alt+C（改变画布大小的快捷键），鼠标左键单击「定位」的左上角的格子，设置宽高为640和1136，点击「确定」。</p><p>2&gt;改变画布大小之后，设计稿的右边和下边都被裁切（上面左图中半透明蒙版覆盖区域），画布缩小成640x1136px。</p><p>3&gt;导航栏右边的图标向左移动保持和原来的右边距一致，标题居中。</p><p>4&gt;首焦图高度除以1.17（750／640=1.17得到）后居中，宽度640px。</p><p>5&gt;主要入口右边的图标向左移动保持和原来的右边距一致，各图标的间距等宽。</p><p><img src="https://i.loli.net/2020/10/14/Ovai52k4jNp9L6b.png" alt="Ovai52k4jNp9L6b"></p><p><strong>4.图标</strong></p><p><img src="https://i.loli.net/2020/10/14/9BKQbScoil6YCuT.png" alt="9BKQbScoil6YCuT"></p><h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a><strong>Android</strong></h2><p><strong>1.存在 1、2、3、4 倍数关系</strong></p><p>*<em>2.常用尺寸：720</em>1280px**</p><p><img src="https://i.loli.net/2020/10/18/Kkcz9LbJQgWDHS6.png" alt="Kkcz9LbJQgWDHS6"></p><p><strong>3.图标</strong></p><p>图标用途 mdpi (160dpi) 、hdpi (240dpi) 、xhdpi (320dpi) 、xxhdpi (480dpi) 、 (640dpi)</p><p>应用图标 48 x 48 px、 72 x 72 px 、96 x 96 px 、144 x 144 px、 192 x 192 px</p><p>系统图标 24 x 24 px 、36 x 36 px 、48 x 48 px 、72 x 72 px 、196 x 196 px</p><p><img src="https://i.loli.net/2020/10/14/AuYPcfKVI6C7H5E.png" alt="AuYPcfKVI6C7H5E"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Android</tag>
+      
+      <tag>iOS</tag>
       
     </tags>
     
@@ -163,8 +427,8 @@
   
   <entry>
     <title>从“新”出发</title>
-    <link href="/%E4%BB%8E%E2%80%9C%E6%96%B0%E2%80%9D%E5%87%BA%E5%8F%91/"/>
-    <url>/%E4%BB%8E%E2%80%9C%E6%96%B0%E2%80%9D%E5%87%BA%E5%8F%91/</url>
+    <link href="/Starting%20from%20%22new%22/"/>
+    <url>/Starting%20from%20%22new%22/</url>
     
     <content type="html"><![CDATA[<p>之前我一直从事行政、前台的文职类工作，天天浑浑噩噩，过着得过且过的日子，出来社会这么久自己都不了解自己想要什么，更加不知自己的目标是什么，想法也一直摇摆不定，更不要说对未来的规划了。虽然岗位问题我是有考虑过，对于职业生涯很头疼也很焦虑，并且也尝试业余学习其他来改变现在状态。但还是没有成功，也没有找到突破口。直到 8 月底，物联网部门在招项目助理(协助部门大佬部门管理，项目协调，软件测试等工作)，这个岗位后期发展比较灵活，可以往产品 UI 测试多方面发展。我自己一直想要往更好的方向发展，也觉得互联网发展前景也比较好，刚好现在有一个这么好的机会也可以提升自己，不想错过、也不想在继续过着浑浑噩噩的日子，所以向该部门的大佬申请加入这个团队。</p><p>  接下来是最重要的事情–学习来提升自己。学习作为一种永无止境的人生追求，一刻也不能放松，前进的动力要从学习中获得，尤其是知识经济时代， 边学习，边工作。用工作带学习，以学习促进工作，在学习中有所发现，有所创造，不断升华自己的专业技术，不断创造。从来都没有想过会在去碰英语的我。对英语这一块不喜欢和无奈的我，为了更好的自己、也考虑到英语的重要性，上网找了一些适合自己也能帮助自己学习的视频（分类归纳记忆法），也找学英语的 App，先把自己的词汇量增加，试着突破自己，看能不能有所改善，不再抗拒而是喜欢..这边也有在提升自己学历，并且也想过后期经济稳定一些，再去自考本科，毕竟大城市还是比较看中学历这块的。</p><p>  9.9 正式迎来岗位的转变，对于这个岗位来说我是一名小白，但我会尽快让自己上手，不拖部门的后腿。这两周都在学习新东西：注意中英文排版问题；更新应用版本（先检测这个包有没有问题在加固和签名然后在检测有没有问题最后才上传）；测试等。</p><p>  哦还有一个，我现在也是有属于自己域名：<a href="http://yuuilee.com/">yuuilee.com</a>。刚开始想 id 名字的时候，都有考虑用鱼，鲤鱼的英文单词了，跟我的名字有点像的谐音，还好还好，是朋友阻止了我，觉得取带有这样含义的有点搞笑很幼稚。</p>]]></content>
     
