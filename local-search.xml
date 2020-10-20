@@ -5,8 +5,8 @@
   
   <entry>
     <title>初级实务笔记：#3 - 会计科目</title>
-    <link href="/Primary%20practice-3/"/>
-    <url>/Primary%20practice-3/</url>
+    <link href="/accounting-primary%20practice-3/"/>
+    <url>/accounting-primary%20practice-3/</url>
     
     <content type="html"><![CDATA[<h3 id="3-会计科目"><a href="#3-会计科目" class="headerlink" title="#3 会计科目"></a>#3 会计科目</h3><p><img src="https://i.loli.net/2020/10/19/21M4hvl8xaDG39Q.png" alt="21M4hvl8xaDG39Q"></p><h4 id="会计科目表-资产"><a href="#会计科目表-资产" class="headerlink" title="会计科目表-资产"></a>会计科目表-资产</h4><p><img src="https://i.loli.net/2020/10/19/EBv1GPtQHFOjm3h.png" alt="EBv1GPtQHFOjm3h"></p><h4 id="会计科目表-负债"><a href="#会计科目表-负债" class="headerlink" title="会计科目表-负债"></a>会计科目表-负债</h4><p><img src="https://i.loli.net/2020/10/19/v3wpcNFsS1T9DtU.png" alt="v3wpcNFsS1T9DtU"></p><h4 id="会计科目表-所有者权益和成本"><a href="#会计科目表-所有者权益和成本" class="headerlink" title="会计科目表-所有者权益和成本"></a>会计科目表-所有者权益和成本</h4><p><img src="https://i.loli.net/2020/10/19/471o3smkYlFcf6y.png" alt="471o3smkYlFcf6y"></p><h4 id="会计科目表-损益"><a href="#会计科目表-损益" class="headerlink" title="会计科目表-损益"></a>会计科目表-损益</h4><p><img src="https://i.loli.net/2020/10/19/MvfN9bDd1mQp2q6.png" alt="MvfN9bDd1mQp2q6"></p>]]></content>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>初级实务笔记：#2 - 会计要素的确认和计量</title>
-    <link href="/Primary%20practice-2/"/>
-    <url>/Primary%20practice-2/</url>
+    <link href="/accounting-primary%20practice-2/"/>
+    <url>/accounting-primary%20practice-2/</url>
     
     <content type="html"><![CDATA[<h3 id="2-会计要素的确认和计量"><a href="#2-会计要素的确认和计量" class="headerlink" title="#2 会计要素的确认和计量"></a>#2 会计要素的确认和计量</h3><p><img src="https://i.loli.net/2020/10/19/HWQqIK9hurwObfV.png" alt="HWQqIK9hurwObfV"></p>]]></content>
     
@@ -58,9 +58,22 @@
   
   
   <entry>
+    <title></title>
+    <link href="/note-software%20testing%20technology-01/"/>
+    <url>/note-software%20testing%20technology-01/</url>
+    
+    <content type="html"><![CDATA[<hr><p>title: 《软件测试技术》01<br>tags:</p><ul><li>测试</li><li>敏捷开发<br>categories:</li><li>笔记<br>author: yuuilee<br>index_img: <a href="https://i.loli.net/2020/10/18/8RYlTCkJynMghvc.jpg">https://i.loli.net/2020/10/18/8RYlTCkJynMghvc.jpg</a><br>banner_img: <a href="https://i.loli.net/2020/10/18/8RYlTCkJynMghvc.jpg">https://i.loli.net/2020/10/18/8RYlTCkJynMghvc.jpg</a><br>date: 2020-03-01 10:46:25</li></ul><hr><h2 id="一、敏捷开发"><a href="#一、敏捷开发" class="headerlink" title="一、敏捷开发"></a>一、敏捷开发</h2><ol><li>以用户需求进化为核心，采用迭代、循序渐进的方法进行软件开发。弱化文档，关注用户核心价值；简化流程关注目标结果</li><li>具备可视、可集成和可运行使用的特征，逐步满足用户期望</li><li>提倡尽早交付与持续增量提供价值的理念，主导拥抱变化，个体与交互胜过过程与工具，不再受限于条条框框，以结果为导向，持续改进，持续优化</li></ol><h2 id="二、Scrum-开发模型"><a href="#二、Scrum-开发模型" class="headerlink" title="二、Scrum 开发模型"></a>二、Scrum 开发模型</h2><ol><li><p>它根据用户期望软件实现的商业价值，先列出*项功能的优先级，在根据优先级分解产品需求、设计、开发、测试，交付可运行的版本，再开发功能，依次迭代，每个迭代过程结束后均能交付增量功能，最终完成产品开发</p></li><li><p>Scrum 开发流程主要涉及三个角色：产品负责人、开发团队和 Scrum Master</p><p> 产品负责人：负责调研市场，分解用户需求，实现用户价值</p><p> 开发团队：项目经理、架构设计、开发、UI 设计和测试等专业人员，负责每一个 Sprint 的结尾交付可发布、应用的产品增量，保证每个 Sprint 迭代完成</p><p> Scrum Master：确保 Scrum 模型被产品团队高效、一致理解并有效实施</p></li><li><p>强调个体交互重于过程和工具，注重面对面的沟通。实行每日站会，采用每天固定时间、固定地点、站立交流的形式开会。保证开发过程的透明性，保证团队成员信息获取的真实性及一致性。每日站会是 Scrum 过程进行每天工作检查和调整的重要环节，过程中出现的问题应当在会后及时跟进并解决</p></li></ol><h2 id="三、Scrum-开发流程"><a href="#三、Scrum-开发流程" class="headerlink" title="三、Scrum 开发流程"></a>三、Scrum 开发流程</h2><ol><li>产品需求：列出功能需求列表，不需要细化每一个功能需求，然后设定优先级，根据优先级确定每个功能的开发先后次序，敏捷开发团队则根据优先级分解用户故事。设立 Sprint 进行增量开发，直至整个产品开发完成并发布</li><li>设计：用户交互信息</li><li>开发：根据产品设计，实现对应的代码，提交测试版本</li><li>测试工程师根据当前 Sprint 所包括的用户故事，提取测地点，开展测试用例</li><li>版本：开发工程师完成对应的开发任务，发布测试版本，需提交至测试工程师进行测试</li><li>发布：经过测试工程师检测，达到测试通过标准的版本，可交由发布负责人根据发布计划实施发布活动</li><li>修复：存在缺陷，由开发工程师进行缺陷的确认与修复，修复完成后由测试工程师开展确认与回归测试，直至到达测试通过标准</li><li>放弃：产品发生了需求变更，或者因外部因素导致产品无法继续，该版本乃至整个产品将可能被放弃</li></ol>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>初级实务笔记：#1 - 基础知识</title>
-    <link href="/Primary%20practice-1/"/>
-    <url>/Primary%20practice-1/</url>
+    <link href="/accounting-primary%20practice-1/"/>
+    <url>/accounting-primary%20practice-1/</url>
     
     <content type="html"><![CDATA[<h3 id="1-基础知识"><a href="#1-基础知识" class="headerlink" title="#1 基础知识"></a>#1 基础知识</h3><p><img src="https://i.loli.net/2020/10/08/5zZiKEyLxsIB6Xk.png" alt="5zZiKEyLxsIB6Xk"></p>]]></content>
     
@@ -86,8 +99,8 @@
   
   <entry>
     <title>Sketch 快捷键</title>
-    <link href="/Sketch%20shortcut%20key/"/>
-    <url>/Sketch%20shortcut%20key/</url>
+    <link href="/sketch-shortcut%20key/"/>
+    <url>/sketch-shortcut%20key/</url>
     
     <content type="html"><![CDATA[<p><strong>一、等距离复制图形</strong></p><p>A.选中元素，按住 Option/Alt 不放，就是复制，拖动到合适的位置</p><p>B. 保持元素选中状态，连续按 Command+D ，就可以等距离复制了</p><p><strong>二、拾色器</strong></p><p>A. 选中文字或形状后，按下 Ctrl + C，就会出现拾色器，改变文字的颜色和形状的填充色。也可以用拾色器选取 Sketch 外其他软件的颜色</p><p><strong>三、查看任意对象之间的距离</strong></p><p>A. 选中对象按 Alt 键，可以查看对象与其他对象之间的距离，但当其他对象处于编组中时，默认查看的是对象与编组的距离。</p><p>B. 查看对象与其他组内对象的距离，我们可以同时按住 Alt + Cmd，就可以查看任意两个对象之间的距离啦</p><p><strong>四、复制、粘贴文字或形状样式</strong> </p><p>A. 按 Alt + Command + C 复制文字或形状的样式后，可以通过 Alt + Command + V 粘贴到其他对象上(有点像 word 里的格式刷)</p>]]></content>
     
@@ -112,9 +125,34 @@
   
   
   <entry>
+    <title>UI 设计规范</title>
+    <link href="/sketch-design%20code-01/"/>
+    <url>/sketch-design%20code-01/</url>
+    
+    <content type="html"><![CDATA[<p><strong>UI 设计组件系统</strong></p><p><img src="https://i.loli.net/2020/10/20/g9Sl6tObRLUmjsP.png" alt="C7siY8.png"></p><h1 id="iOS-与-Andriod-区别"><a href="#iOS-与-Andriod-区别" class="headerlink" title="iOS 与 Andriod 区别"></a><strong>iOS 与 Andriod 区别</strong></h1><p>导航栏：iOS 的标题在中间，Andriod 的标题靠左边</p><p>Tadbar：Andriod 应用是没有底部的标签栏</p><h1 id="内容列表"><a href="#内容列表" class="headerlink" title="内容列表"></a><strong>内容列表</strong></h1><p>垂直列表</p><p><img src="https://i.loli.net/2020/10/20/hkWsNclYg5HdPDZ.png" alt="hkWsNclYg5HdPDZ"></p><p>网格列表</p><p><img src="https://i.loli.net/2020/10/20/TLXJ7eHEhvyqNUZ.png" alt="TLXJ7eHEhvyqNUZ"></p><h1 id="导航控件"><a href="#导航控件" class="headerlink" title="导航控件"></a><strong>导航控件</strong></h1><p>软件的结构以及基本交互由导航决定。桌面端及网页导航菜单数量超过 9 个就一定要进行分组，而移动端菜单受限于屏幕的范围，一般不超过 5 个，根据应用类型的不同常见的导航形式有：标签式、分段式、下拉式、深入式、仪表盘式、滑动式、抽屉式、弹出式</p><p>1.分段式：比标签导航控件小，可融入界面</p><p><img src="https://i.loli.net/2020/10/20/uvltJnNMIH7PpUj.png" alt="uvltJnNMIH7PpUj"></p><p>2.下拉式：显示在当前界面之上的菜单条目列表</p><p><img src="https://i.loli.net/2020/10/20/Iz4amb8ukwe36RJ.png" alt="Iz4amb8ukwe36RJ"></p><p>3.深入式：条目过多时切具有层级关系</p><p><img src="https://i.loli.net/2020/10/20/cOU1fAThMI3QZoj.png" alt="cOU1fAThMI3QZoj"></p><p>4.仪表盘式:可用于比顶层界面更高一级的界面中导航</p><p><img src="https://i.loli.net/2020/10/20/cO9QETZLm2vsHdM.png" alt="cO9QETZLm2vsHdM"></p><p>5.滑动式：走马灯式应用，浏览大面积内容</p><p><img src="https://i.loli.net/2020/10/20/ilKJ7IDpLoET234.png" alt="ilKJ7IDpLoET234"></p><p>6.抽屉式：有效节约空间</p><p><img src="https://i.loli.net/2020/10/20/Wgt95EsyrhKbVXj.png" alt="Wgt95EsyrhKbVXj"></p><h1 id="刷新控件"><a href="#刷新控件" class="headerlink" title="刷新控件"></a><strong>刷新控件</strong></h1><p>是一个很好的吸引用户注意力的控件，一方面让用户觉得 App 有意思，另外，用户会一定程度上忽视 App 刷新数据时所耗费的时间，下拉刷新个性迥异，时不时还有彩蛋，确实是一个很好的 App 交互的创新点</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Sketch</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>友盟关联账户</title>
-    <link href="/Umeng/"/>
-    <url>/Umeng/</url>
+    <link href="/tool-umeng/"/>
+    <url>/tool-umeng/</url>
     
     <content type="html"><![CDATA[<p>为您的账户添加授权账号，进行协同管理，也可为客户添加授权账号，提供授权的应用的查看权限</p><p><strong>一、注册友盟账号</strong></p><p>A. 先注册友盟账户</p><p><a href="https://passport.umeng.com/signup?lang=zh_CN&redirectURL=https://workbench.umeng.com/">https://passport.umeng.com/signup?lang=zh_CN&amp;redirectURL=https%3A%2F%2Fworkbench.umeng.com%2F</a></p><p>B. 注册好友盟账户，记得要绑定好邮箱，不然添加授权账号就会出现以下情况</p><p><img src="https://i.loli.net/2020/10/09/SYbQuNZf4kyD9pq.png" alt="SYbQuNZf4kyD9pq"></p><p>C. 在把注册好的用户名给到管理员</p><p><strong>二、关联友盟账号</strong></p><p>A.  管理-系统设置-授权账号管理</p><p><img src="https://i.loli.net/2020/10/09/lLnvPbo9Uu6JzTF.png" alt="lLnvPbo9Uu6JzTF"></p><p>B. 新增授权账号：填写用户名，选择授权账号拥有应用权限</p><p><img src="https://i.loli.net/2020/10/09/3hDdLVATYpxGmog.png" alt="3hDdLVATYpxGmog"></p><p><strong>三、登录友盟账户</strong></p><p>A. 微信关注”友盟全域数据“，进入友盟小程序</p><p><img src="https://i.loli.net/2020/10/09/CZiNTIBXhd7z51a.png" alt="CZiNTIBXhd7z51a"></p><p>B. 登录账户，查看应用数据</p><p><img src="https://i.loli.net/2020/10/09/whMmPCYIyTgvubD.png" alt="whMmPCYIyTgvubD"></p><p><img src="https://i.loli.net/2020/10/09/oW3g2B6uhv89tsi.png" alt="oW3g2B6uhv89tsi"></p>]]></content>
     
@@ -138,8 +176,8 @@
   
   <entry>
     <title>生成 App 二维码步骤</title>
-    <link href="/QR%20code/"/>
-    <url>/QR%20code/</url>
+    <link href="/tool-qr%20code/"/>
+    <url>/tool-qr%20code/</url>
     
     <content type="html"><![CDATA[<p><strong>一、登录草料</strong></p><p><a href="https://console.cli.im/company/business">https://console.cli.im/company/business</a></p><p><strong>二、二维码生成步骤</strong></p><p>A. 选择文本生成二维码</p><p><img src="https://i.loli.net/2020/10/09/e7KEDWIa6lvLsot.png" alt="e7KEDWIa6lvLsot"></p><p>B. 上传图标</p><p><img src="https://i.loli.net/2020/10/09/DUrvLqCVwNKbHJi.png" alt="DUrvLqCVwNKbHJi"></p><p>三、<strong>二维码验证步骤</strong></p><p>A. 解析二维码，核对链接是否有误</p><p><img src="https://i.loli.net/2020/10/19/xlSDjoXQLeHhZ2N.png" alt="xlSDjoXQLeHhZ2N"></p><p>B. Android 手机验证 ：微信、QQ、自带浏览器</p><p>C. iOS 手机验证：微信、QQ</p><p>四、<strong>二维码命名规范</strong></p><p>qrcode（二维码）-app（应用）-download（下载）-应用名称</p>]]></content>
     
@@ -163,8 +201,8 @@
   
   <entry>
     <title>Sketch 临摹炫彩时尚图标</title>
-    <link href="/Sketch%20copy%20colorful%20fashion%20icon/"/>
-    <url>/Sketch%20copy%20colorful%20fashion%20icon/</url>
+    <link href="/sketch-icon-copy-colorful%20fashion/"/>
+    <url>/sketch-icon-copy-colorful%20fashion/</url>
     
     <content type="html"><![CDATA[<ol><li>打开【Sketch】，【A】新建画板 400*300</li></ol><p><img src="https://i.loli.net/2020/10/14/YCbpsLdqIHhUn7i.png" alt="YCbpsLdqIHhUn7i"></p><ol start="2"><li>【R】绘制矩形，关闭【描边】填充为【紫色 A002FF】，添加【渐变】，再次添加【渐变】，将混合模式改为【叠加】400*300</li></ol><p>![image-20201014114959219](/Users/yuuilee/Library/Application Support/typora-user-images/image-20201014114959219.png)</p><ol start="3"><li>【文件】-【从模板新建】【ios应用图标】复制一个图层过来 152*152</li></ol><p><img src="https://i.loli.net/2020/10/14/zNVdpB7R2mCO8xJ.png" alt="zNVdpB7R2mCO8xJ"></p><ol start="4"><li><p>将图标填充【白色 FFFFFF】再填充第二个【粉色 FCA3FF】透明度为【10％】</p></li><li><p>【O】绘制正圆 124*124，填充【渐变：E500E7,00D7FF】</p></li><li><p>继续【O】绘制圆形 58*58，添加【渐变：FFDBFF,FCF2FC】【内阴影：白色，0，1，3/C085C8，0，-1，3】</p></li><li><p>再【O】绘制正圆 128*128</p></li><li><p>继续【O】绘制正圆放在底层 116*116</p></li><li><p>选择 128<em>128 和 116</em>116 正圆【减去顶层】添加【渐变：F698FF,BDB6FF,FFF3FF】</p></li><li><p>重复制作正圆 144*144, 添加【渐变：FFFFFF,DF80FF】，添加模糊效果【3】，透明度【44】</p></li><li><p>彩色图层添加【内阴影：黑色，透明度 64，0，0，10/0，7，9】</p></li><li><p>矩形图层添加【内阴影：E187FF,透明度90，0，-5，6/白色，透明度100，0，5，6】</p></li><li><p>再【O】绘制正圆 48*48，添加【渐变：白色，透明度0/黑色】叠加图层</p></li><li><p>矩形图层添加【阴影：000000，透明度42，0，10，16/000000，透明度34，0，4，14/000000，透明度24，0，2，2】</p></li><li><p>复制粘贴矩形图层，去掉全部效果，填充为黑色，按住【shift】点击向下箭头三次，透明度【20】，模糊【7】</p></li><li><p>复制粘贴中心圆图层，去掉全部效果，填充为黑色，按住【shift】点击向下箭头三次，透明度【10】，模糊【4】</p></li><li><p>复制粘贴中心圆图层，去掉全部效果，填充为黑色，按住确认健往下拉【58*68】，透明度【20】，模糊【8】</p></li><li><p>复制粘贴【58<em>68】图层，更改大小【68</em>80】，叠加图层，透明度【40】，模糊【8】</p></li><li><p>中心圆图层添加阴影，【黑色，透明度60，0，1，2，叠加/黑色，透明度14，0，3，4/黑色，透明度50，0，2，4】</p></li><li><p>细节调整：【U】绘制圆角矩形 8*3，半径3【CA2DEA,透明度40】【阴影白色，透明度46，0，1，0】【内阴影黑色，透明度40，0，1，0，叠加效果】</p></li><li><p>【O】绘制圆角矩形 8<em>8，白色，增加叠加效果，在和圆角矩形 6</em>6【减去顶层】，复制粘贴该图层移动到右边去掉圆角矩形 6*6</p></li><li><p>效果如图所示</p></li></ol><p><img src="https://i.loli.net/2020/10/14/idPeQwZKntr8jHJ.png" alt="ZK3Lzk.png"><br>23. 总结</p><p>A. 每画一个图层要记得要居中对齐</p><p>B. 图层使用叠加的效果，可以在画面中凸显</p><p>C. 渐变角度很重要，可以制造出高低起伏的感觉</p><p>D. 通过调整投影透明度，让投影看起来更柔和，与背景的贴合度更高</p><p>E. 每个图层都要重命名，方便自己快速定位对应图层</p>]]></content>
     
@@ -188,8 +226,8 @@
   
   <entry>
     <title>惠东两天一夜游记</title>
-    <link href="/Travels%20of%20Huidong/"/>
-    <url>/Travels%20of%20Huidong/</url>
+    <link href="/travel-huidong/"/>
+    <url>/travel-huidong/</url>
     
     <content type="html"><![CDATA[<p>又到了 2020 年最热闹的季节，为了缓解大家的压力，放松大家的身心，我们公司在7月24-25日组织大家前往惠东团建。</p><h3 id="第一天（2020-7-24）"><a href="#第一天（2020-7-24）" class="headerlink" title="第一天（2020.7.24）"></a>第一天（2020.7.24）</h3><p><strong>大星山观景台</strong></p><p>从山顶往下看，就可看到美丽的双月湾。双月湾由大亚湾和红海湾畔相邻的两 个半月形海湾组成。</p><p><img src="https://i.loli.net/2020/10/09/kJVy1o68DLS4Pvz.png" alt="kJVy1o68DLS4Pvz"></p><p><strong>午餐（双月湾三姐妹餐馆）</strong></p><p>凉瓜石蟹汤、海鲜大盆菜、香爆鱿鱼、清蒸海鱼、窑鸡、 蒜蓉蒸生蚝、丝瓜炒鱼饼、鱼香茄子煲、客家让豆腐、田园炒时蔬（500 元/桌 ）</p><p>个人感觉凉瓜石蟹汤、海鲜大盆菜、香爆鱿鱼这三道菜不错，汤鲜甜，香爆鱿鱼也做的入味好吃，作为广东人必吃的菜品-豆腐，她们家的豆腐有点让我失望，我就吃了一口。还有一个比较失望的菜品-窑鸡，是去了那边还是要吃当地的窑鸡的，但那天吃的不是刚出炉的导致吃起来没有这么香，也觉得不够入味。</p><p><strong>惠东海公园 K 栋-广东劳模疗休养基地</strong></p><p>该酒店的房间也不像网上评论的那么差，房间干净也很大，最主要让我们团队都住上了海景房</p><p><img src="https://i.loli.net/2020/10/09/RpsFaB86Uq1PTrc.png" alt="RpsFaB86Uq1PTrc"></p><p><strong>晚餐（金色沙滩烧烤）</strong></p><p>鸡翅 1 个、鸡腿 1 个、鸡尖 1 个、火腿 1 根、鱼丸 1 串、豆腐干串 1 串、牛肉串 1 串、骨肉相连 1 串、五花肉串 1 串、韭菜 1 份、馒头 1 包、尖椒 1 条、娃娃菜 1 份、面包 1 包、热狗 1 根、鸭肾串 1 串、海虾 1 斤（海鲜 10 人 1 斤）、沙白 1.5 斤(海鲜 10 人 1 斤）、 生蚝 2 个（海鲜）、扇贝一个（海鲜）、猪扒 1 份、螺肉串 1 串、玉米 1 份、秋刀鱼 1 条、鱿鱼 1 串（50 元/人）</p><p>自己烧烤单纯为好玩，又吃不饱也不知烤熟了没，就吃了，不过还好第二天肚子还是正常的（下方是烧烤地方景点）</p><p><img src="https://i.loli.net/2020/10/09/uR6XC7Ea2hqe8kr.png" alt="uR6XC7Ea2hqe8kr"></p><p><strong>世界级顶尖车技汇演.华家班</strong></p><p>专业的汽车影视特技表演场地，由中国赛车名 将华英雄之称的华庆先女儿华婷婷带领的一众资深特技大师团队，全球唯一以汽车、摩托车、跑酷、街舞等文化完美结合。</p><p>惊心动魄的一场车技表演，现场也多次体验交易情况（体验价：两三百一次），但也不影响我们大家看表演，也推销知名的书法家（忘记他的名字了）的书画，他写的马到成功真的栩栩如生（看下图），也可以写其他的文字，都是 300 元一副。</p><p><img src="https://i.loli.net/2020/10/09/VaR4LIvUp9zf3MH.png" alt="VaR4LIvUp9zf3MH"></p><p><img src="https://i.loli.net/2020/10/09/GIjRqzt4lpO2oMw.png" alt="GIjRqzt4lpO2oMw"></p><h3 id="第二天（2020-7-25）"><a href="#第二天（2020-7-25）" class="headerlink" title="第二天（2020.7.25）"></a>第二天（2020.7.25）</h3><p><strong>玩海时代帆船体验</strong></p><p>一艘船坐 5 个人，有点无聊，就是在海上漂荡半个小时左右</p><p><img src="https://i.loli.net/2020/10/09/s5Q28kMnptWdHBg.png" alt="s5Q28kMnptWdHBg"></p><p><strong>一支箭俱乐部</strong></p><p>射箭可费力气了，每人 12 只箭，我就玩了3 只箭就举不起那弓，并体验完，连续两天手臂有点酸痛</p><p><img src="https://i.loli.net/2020/10/09/qZeEvwm5KlfzWko.png" alt="qZeEvwm5KlfzWko"></p><p><strong>渔家庄餐馆（午餐）</strong></p><p>杂鱼豆腐咸菜汤、清蒸红鸡鱼、椒盐赖尿虾、姜葱炒花蟹、 尖椒炒花甲、沙白蒸水蛋、粉丝蒸扇贝、客家焖鸭、冬菇蒸鸡、招牌杂菇煲、香辣回锅肉、蒜蓉炒时蔬（500 元/桌 ）</p><p>广东人做的汤真心不错</p><p><strong>结束惠东之旅，回深</strong></p><p><strong>注意点：</strong></p><ol><li>要多带一件替换上衣</li><li>做好防晒措施（帽子、雨伞、防晒霜、袖套）</li></ol>]]></content>
     
@@ -214,9 +252,36 @@
   
   
   <entry>
+    <title>Sketch 学习笔记 01</title>
+    <link href="/sketch-learning%20notes-01/"/>
+    <url>/sketch-learning%20notes-01/</url>
+    
+    <content type="html"><![CDATA[<p><strong>一、Sketch初识软件界面</strong></p><p>1、左侧：软件推荐使用的教材、云服务等</p><p>2、右侧：</p><p>2.1  Recents:最近打开的文档以及新建空白文档</p><p>2.2 Templates：模板新建（iOS APP 图标、安卓设计模板、网友设计模板 ）</p><p>3、工具栏：</p><p><img src="https://i.loli.net/2020/10/20/KtH5X2DfnPATyEd.png" alt="KtH5X2DfnPATyEd"></p><p>4、页面与图层：一个文档可以包含多个页面，每个页面都有对应图层</p><p><img src="https://i.loli.net/2020/10/20/KY1SCsGQy8qFwUa.png" alt="KY1SCsGQy8qFwUa"></p><p>5、中间部分是画板：可以在画布区域进行设计</p><p>6、属性检查器：根据选择图形显示对应的属性</p><p><img src="https://i.loli.net/2020/10/20/z7HOw1ThR4c6nS2.png" alt="z7HOw1ThR4c6nS2"></p><p><strong>二、SKetch工具栏使用与自定义</strong></p><p>1、包括了设计过程所需的所有工具</p><p><img src="https://i.loli.net/2020/10/20/6dVnQGSlXcRehJC.png" alt="6dVnQGSlXcRehJC"></p><p>2、自定义添加删除工具：以拖拽方式</p><p>3、添加空格区分工具功能</p><p>4、默认工具栏</p><p><img src="https://i.loli.net/2020/10/20/DuMea1dzfmw4NKG.png" alt="DuMea1dzfmw4NKG"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Sketch</tag>
+      
+      <tag>学习</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Sketch 学习软件操作</title>
-    <link href="/Sketch%20learning%20software%20operation/"/>
-    <url>/Sketch%20learning%20software%20operation/</url>
+    <link href="/sketch-learning%20notes-04/"/>
+    <url>/sketch-learning%20notes-04/</url>
     
     <content type="html"><![CDATA[<h1 id="一、形状间的插入与编辑"><a href="#一、形状间的插入与编辑" class="headerlink" title="一、形状间的插入与编辑"></a><strong>一、形状间的插入与编辑</strong></h1><ol><li>形状认识和操作</li></ol><p>![image-20201014120012108](/Users/yuuilee/Library/Application Support/typora-user-images/image-20201014120012108.png)</p><h1 id="二、形状间的布尔运算"><a href="#二、形状间的布尔运算" class="headerlink" title="二、形状间的布尔运算"></a><strong>二、形状间的布尔运算</strong></h1><ol><li>跟着教程画了 3 个小图标</li></ol><p><img src="https://i.loli.net/2020/10/14/YwPoXGFaLvOljmE.png" alt="YwPoXGFaLvOljmE"></p><h1 id="三、图层样式"><a href="#三、图层样式" class="headerlink" title="三、图层样式"></a><strong>三、图层样式</strong></h1><ol><li>从上到下：位置、大小、变换（旋转/翻转）、填充、描边、阴影、内阴影、模糊</li></ol><p><img src="" alt="zU8W3sXBET9Cjg2"><br>2.  半径、共享样式、不透明度</p><p>![image-20201014120220196](/Users/yuuilee/Library/Application Support/typora-user-images/image-20201014120220196.png)</p><h1 id="四、工具栏调整与使用"><a href="#四、工具栏调整与使用" class="headerlink" title="四、工具栏调整与使用"></a><strong>四、工具栏调整与使用</strong></h1><ol><li>合并形状，剪去顶层 区域相交 排除重叠</li></ol><p><img src="https://i.loli.net/2020/10/14/giqOwLP6DuyWb7r.png" alt="giqOwLP6DuyWb7r"></p><ol start="2"><li>创建组件、分组、取消分组</li></ol><p><img src="https://i.loli.net/2020/10/14/EoPZB4keJiwhR5p.png" alt="EoPZB4keJiwhR5p"></p><ol start="3"><li>编辑、变换、旋转、拼合、蒙板、缩放、创建网格</li></ol><p><img src="https://i.loli.net/2020/10/14/Q7ytS8Zw1bjVnue.png" alt="Q7ytS8Zw1bjVnue"></p><h1 id="五、图片和文本"><a href="#五、图片和文本" class="headerlink" title="五、图片和文本"></a><strong>五、图片和文本</strong></h1><h1 id="六、复用样式与符号"><a href="#六、复用样式与符号" class="headerlink" title="六、复用样式与符号"></a><strong>六、复用样式与符号</strong></h1><ol><li><p>统一改变字体、图标</p></li><li><p>复用符号</p></li></ol><p><img src="https://i.loli.net/2020/10/14/9EqdcaHPTLYG5Nn.png" alt="9EqdcaHPTLYG5Nn"></p><h1 id="七、导出与标注"><a href="#七、导出与标注" class="headerlink" title="七、导出与标注"></a><strong>七、导出与标注</strong></h1><ol><li><p>拉出导出</p></li><li><p>图标导出插件</p></li></ol><p><img src="https://i.loli.net/2020/10/14/H5WOA9Uqvd4jcMm.png" alt="H5WOA9Uqvd4jcMm"></p><p><img src="https://i.loli.net/2020/10/14/VOtny4IgPkLYuzc.png" alt="VOtny4IgPkLYuzc"></p><ol start="3"><li>网页导出插件</li></ol><p><img src="https://i.loli.net/2020/10/14/kMVfhyjzqbWdeuw.png" alt="kMVfhyjzqbWdeuw"></p><h1 id="八、插件使用与安装"><a href="#八、插件使用与安装" class="headerlink" title="八、插件使用与安装"></a><strong>八、插件使用与安装</strong></h1><ol><li>Sketch 插件网站</li></ol><p><img src="https://i.loli.net/2020/10/14/d9KEsAqwgH6b8GP.png" alt="d9KEsAqwgH6b8GP"></p>]]></content>
     
@@ -239,9 +304,9 @@
   
   
   <entry>
-    <title>PS 工具介绍（二）</title>
-    <link href="/Introduction%20of%20PS%20tools%20(2)/"/>
-    <url>/Introduction%20of%20PS%20tools%20(2)/</url>
+    <title>PS 工具介绍 02</title>
+    <link href="/ps-tool%20introduction-02/"/>
+    <url>/ps-tool%20introduction-02/</url>
     
     <content type="html"><![CDATA[<h1 id="三、PS-中的蒙版"><a href="#三、PS-中的蒙版" class="headerlink" title="三、PS 中的蒙版"></a><strong>三、PS 中的蒙版</strong></h1><p><strong>图层蒙版</strong></p><ol><li>command+j 快速复制图层</li></ol><p><strong>快速蒙版</strong></p><ol><li><p>用快速选择工具选择大致选出一个范围，在按 Q （快速蒙版快捷键）</p></li><li><p>使用画笔工具，白色是把红色区域多选中的地方擦除，黑色是没有选中的地方选择</p></li><li><p>切换前景色后景色快捷键： X</p></li></ol><p><img src="https://i.loli.net/2020/10/14/QrCAGXNcUiD5fkW.png" alt="lBSIYu.png"></p><ol start="4"><li>画笔快捷键：B</li></ol><p><strong>剪贴蒙版</strong></p><ol><li>使用调整功能里面的色彩平衡</li></ol><h1 id="四、修复和图章"><a href="#四、修复和图章" class="headerlink" title="四、修复和图章"></a><strong>四、修复和图章</strong></h1><ol><li><p>污点修复工具、修复画笔工具、修补工具：在缺失的地方，画个圈然后移动到你想选择图复制、内容感知工具、红眼工具</p></li><li><p>仿制图章、图案图章：按住 option 键，可以复制定义想要的图</p></li></ol><p><img src="https://i.loli.net/2020/10/14/8EXz3iqYxMR1heB.png" alt="8EXz3iqYxMR1heB"></p><ol start="3"><li>内容识别快捷键：Shift+F5 修复效果类似于污点修复工具</li></ol>]]></content>
     
@@ -266,9 +331,9 @@
   
   
   <entry>
-    <title>PS 工具介绍（一）</title>
-    <link href="/Introduction%20of%20PS%20tools%20(1)/"/>
-    <url>/Introduction%20of%20PS%20tools%20(1)/</url>
+    <title>PS 工具介绍 01</title>
+    <link href="/ps-tool%20introduction-01/"/>
+    <url>/ps-tool%20introduction-01/</url>
     
     <content type="html"><![CDATA[<h1 id="一、选区工具组"><a href="#一、选区工具组" class="headerlink" title="一、选区工具组"></a><strong>一、选区工具组</strong></h1><p><strong>选框工具</strong></p><p><img src="https://i.loli.net/2020/10/14/utfpFqDEnN2SI5Y.png" alt="LPy7FO.png"></p><ol><li><p>快捷键：m</p></li><li><p>shift+m：切换椭圆选框</p></li><li><p>按住 shift 键拉出来是正圆</p></li><li><p>按住空格键是移动选区的位置</p></li></ol><p><strong>魔棒</strong></p><p><img src="https://i.loli.net/2020/10/14/YSuvEARH3z2QZDd.png" alt="YSuvEARH3z2QZDd"></p><ol><li><p>分辨图片中不同色彩</p></li><li><p>容差越大，选择范围越粗糙；容差越小，选择范围越精细</p></li></ol><p><strong>快速选择工具</strong></p><p><img src="https://i.loli.net/2020/10/14/FhKOWcJMIj2lNAn.png" alt="8zHIbH.png"></p><p><strong>套索工具</strong></p><p><img src="https://i.loli.net/2020/10/14/UpedWOnVoSMPwNQ.png" alt="mdbTIo.png"></p><ol><li>shift+m：切换多边形套索工具（折线的画形状）/磁性套索工具（根据轨迹走，画错无法修改）</li></ol><h1 id="二、色彩范围"><a href="#二、色彩范围" class="headerlink" title="二、色彩范围"></a><strong>二、色彩范围</strong></h1><p><strong>选择-取样颜色</strong></p><p><img src="https://i.loli.net/2020/10/14/x8MOQUF62d1INgj.png" alt="mh1xig.png"></p><ol><li>被选择是白色，没有被选择是黑色</li><li>按住 shift 键：加选</li><li>按住 option 键：减号</li><li>选择套索工具，按住 option 减去不应该选上的地方给减去</li><li>选择魔棒工具，按住 shift 加选</li></ol>]]></content>
     
@@ -294,8 +359,8 @@
   
   <entry>
     <title>PS 入门学习</title>
-    <link href="/PS%20introduction%20learning/"/>
-    <url>/PS%20introduction%20learning/</url>
+    <link href="/ps-introduction%20learning/"/>
+    <url>/ps-introduction%20learning/</url>
     
     <content type="html"><![CDATA[<h1 id="第一节：软件入门"><a href="#第一节：软件入门" class="headerlink" title="第一节：软件入门"></a><strong>第一节：软件入门</strong></h1><p>安装 ps</p><h1 id="第二节：界面介绍、新建和存储"><a href="#第二节：界面介绍、新建和存储" class="headerlink" title="第二节：界面介绍、新建和存储"></a><strong>第二节：界面介绍、新建和存储</strong></h1><p>新建文件：command+n</p><p>打开：command+s</p><p>关闭：command+w</p><p>另存储：command+shift+s</p><p>图片品质越高，文件越大（建议选择8-10）</p><p><img src="https://i.loli.net/2020/10/14/s5GQw1KRtv9S62D.png" alt="s5GQw1KRtv9S62D"></p><p>常用保存图片格式：jpg、png、gif</p><p>有透明图片请用 png 24 导出</p><p><img src="https://i.loli.net/2020/10/14/c8IVBk9d5rnWjOD.png" alt="c8IVBk9d5rnWjOD"></p><h1 id="第三节：提高运行效率"><a href="#第三节：提高运行效率" class="headerlink" title="第三节：提高运行效率"></a><strong>第三节：提高运行效率</strong></h1><p>打开首选项：option+command+k</p><p>撤销：option+command+z</p><p>修改首选项（主要修改性能和暂存盘），需重启 ps 才生效</p><p><img src="https://i.loli.net/2020/10/14/evktTmZ4qPA918o.png" alt="evktTmZ4qPA918o"></p><p><img src="https://i.loli.net/2020/10/14/tWgdcRnVjbG25AU.png" alt="tWgdcRnVjbG25AU"></p><h1 id="第四节：有效记忆快捷键"><a href="#第四节：有效记忆快捷键" class="headerlink" title="第四节：有效记忆快捷键"></a><strong>第四节：有效记忆快捷键</strong></h1><p><img src="https://i.loli.net/2020/10/14/XHN23z6PQvJmaIe.png" alt="n9oVvC.png"></p><p>取消：command+d</p><p>自由变换：command+t</p><p>自定义快捷键</p><p><img src="https://i.loli.net/2020/10/14/QmAlbjGrawMITH3.png" alt="8tu8V3.png"></p><h1 id="第五节：色彩模式、图像大小"><a href="#第五节：色彩模式、图像大小" class="headerlink" title="第五节：色彩模式、图像大小"></a><strong>第五节：色彩模式、图像大小</strong></h1><p>图片需打印新建的画布就要选择cmyk</p><p><img src="https://i.loli.net/2020/10/14/mKzACMiWnhUogY7.png" alt="mKzACMiWnhUogY7"></p><p>画布大小：command+option+c</p><p>图像大小：command+option+I</p><p><img src="https://i.loli.net/2020/10/14/RTUzfw1jQqXp4Ib.png" alt="ixxozq.png"></p>]]></content>
     
@@ -318,9 +383,142 @@
   
   
   <entry>
+    <title>《软件测试技术》05</title>
+    <link href="/note-software%20testing%20technology-05/"/>
+    <url>/note-software%20testing%20technology-05/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一、测试套件设计"><a href="#一、测试套件设计" class="headerlink" title="一、测试套件设计"></a><strong>一、测试套件设计</strong></h1><p>执行测试前，先创建测试套件，再执行测试，这样便于后期的测试用例回归与结果跟踪（禅道-测试-套件）</p><h1 id="二、执行冒烟测试"><a href="#二、执行冒烟测试" class="headerlink" title="二、执行冒烟测试"></a><strong>二、执行冒烟测试</strong></h1><ol><li>验证其核心功能能否正常运行，如果其核心功能无法正常工作，则不必执行深度测试，这个过程一般称为“冒烟测试”</li><li>冒烟测试，指利用较短的时间，对冒烟测试用例进行执行，保证被测对象核心功能能够正常工作</li></ol><h1 id="三、执行正式测试"><a href="#三、执行正式测试" class="headerlink" title="三、执行正式测试"></a><strong>三、执行正式测试</strong></h1><ol><li>功能测试</li><li>流程测试</li><li>安全测试</li><li>兼容性测试</li><li>性能测试</li><li>接口测试</li></ol><h1 id="四、测试执行规范"><a href="#四、测试执行规范" class="headerlink" title="四、测试执行规范"></a><strong>四、测试执行规范</strong></h1><ol><li>测试执行前测试工程师预估时间，如有风险，及时上报</li><li>优先级执行，冒烟-深度-从高到低-先流程后校验</li><li>未执行用例、标志为删除或者无效的用例，需标注原因</li><li>有疑问的测试用例，及时检查</li><li>对用例描述的检查点逐一检查，避免遗漏</li><li>发现用例存在错误，及时记录</li></ol><h1 id="五、缺陷跟踪处理"><a href="#五、缺陷跟踪处理" class="headerlink" title="五、缺陷跟踪处理"></a><strong>五、缺陷跟踪处理</strong></h1><ol><li>严重程度（禅道中以数字1、2、3、4表示）</li><li>状态（禅道以激活、已解决、已关闭状态）</li><li>缺陷类型</li><li>所属模块</li></ol><h1 id="六、确认回归测试"><a href="#六、确认回归测试" class="headerlink" title="六、确认回归测试"></a><strong>六、确认回归测试</strong></h1><ol><li>确认缺陷是否修复</li><li>执行用例回归测试</li></ol><h1 id="七、测试报告输出"><a href="#七、测试报告输出" class="headerlink" title="七、测试报告输出"></a><strong>七、测试报告输出</strong></h1><ol><li>Bug 情况（数量、严重度、类型、状态）</li><li>测试报告内容（用例执行情况、缺陷分布、遗留缺陷情况、版本质量评价）</li></ol><p><strong>备注：利用禅道项目管理工具进行有效跟踪及管理缺陷</strong></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+      <tag>禅道</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《软件测试技术》04</title>
+    <link href="/note-software%20testing%20technology-04/"/>
+    <url>/note-software%20testing%20technology-04/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一、测试用例管理"><a href="#一、测试用例管理" class="headerlink" title="一、测试用例管理"></a><strong>一、测试用例管理</strong></h1><h2 id="测试用例属性管理"><a href="#测试用例属性管理" class="headerlink" title="测试用例属性管理"></a><strong>测试用例属性管理</strong></h2><p>1&gt;用例属性：描述测试用例的测试目的，通常而言，分为功能测试、性能测试、UI 测试、接口测试、安全测试、配置测试、运维测试等</p><p>2&gt;适用阶段：可分为单元测试、集成测试、系统测试、验收测试、维护测试等，设计不同阶段的测试用例，便于在测试执行时更有针对性</p><p>3&gt;优先级：测试用例执行的先后顺序，一般分为 3 种级别：高、中、低</p><h2 id="测试用例评审管理"><a href="#测试用例评审管理" class="headerlink" title="测试用例评审管理"></a><strong>测试用例评审管理</strong></h2><p>1&gt;目的：为了确保测试工程师与产品团队其他成员对需求的理解保持一致，减少测试过程中无效用例、无效缺陷的产生</p><p>2&gt;评审内容：确认用例是否符合产品需求设计；逻辑是否正确；期望结果对产品实现的要求是否合理；用例优先级设置是否合理；是否根据测试规范设计；用例描述是否清晰；是否有明确的期望结果；是否关注用户的期望价值（产品经理、开发工程师、测试工程师）</p><p>3&gt;评审时机：建议测试用例评审活动定在每天完成，评审前，测试工程师应当根据任务分配及时间节点规划完成相关用例设计</p><p>4&gt;评审步骤：测试工程师评审用例完成；相关人员参加评审会议；测试工程师根据测试用例优先级逐条讲解；测试工程师记录评审过程中出现问题；测试工程师确认问题修复，发起第二次评审</p><h2 id="测试用例版本变更管理"><a href="#测试用例版本变更管理" class="headerlink" title="测试用例版本变更管理"></a><strong>测试用例版本变更管理</strong></h2><p>1&gt;需求变动</p><p>2&gt;用例完善</p><p>3&gt;缺陷引起用例更新</p><p>4&gt;设计文档变更</p><h1 id="二、测试用例设计"><a href="#二、测试用例设计" class="headerlink" title="二、测试用例设计"></a><strong>二、测试用例设计</strong></h1><p>1&gt;测试用例设计既要覆盖用户正常应用的情况，也需考虑用户异常、极限的操作行为</p><p>2&gt;在所有可能的输入条件和输出条件中确定测试数据，来检查应用软件是否都能产生正确的输出</p><p>3&gt;软件测试工作中，测试工程师需采用一定的方法，设计高效的测试用例来指导测试工作，提高工作效率</p><p><strong>备注：测试工程师完成测试用例的设计工作，评审通过后等待测试版本发布，然后进行测试用例执行、跟踪处理缺陷等活动。</strong></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+      <tag>测试用例</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《软件测试技术》03</title>
+    <link href="/note-software%20testing%20technology-03/"/>
+    <url>/note-software%20testing%20technology-03/</url>
+    
+    <content type="html"><![CDATA[<h1 id="测试对象分析"><a href="#测试对象分析" class="headerlink" title="测试对象分析"></a><strong>测试对象分析</strong></h1><p>测试工程师需从目标定义、项目背景、测试任务、测试资源、测试风险等几个维度对测试对象进行分析，以便更深入地理解产品需求、提取测试需求、设计测试用例及执行测试用例、发现产品缺陷。</p><h2 id="测试目标定义"><a href="#测试目标定义" class="headerlink" title="测试目标定义"></a><strong>测试目标定义</strong></h2><ol><li>确定本次或本轮测试活动期望达成的目标，与测试任务不同，测试任务是具体的事物，测试目标是结果，测试任务是测试目标的实现过程。</li><li>需结合用户在产品需求或用户故事中已明确定义及由测试工程师根据自身技术、项目经验结合软件背景、用户背景、运营背景等因素综合考虑分析提取。</li><li>功能实现覆盖、性能指标、缺陷修复率、兼容性覆盖率等。</li></ol><h2 id="项目背景分析"><a href="#项目背景分析" class="headerlink" title="项目背景分析"></a><strong>项目背景分析</strong></h2><p>从产品会议、需求大纲、产品待办事项列表等相关资料获取</p><h2 id="测试任务识别"><a href="#测试任务识别" class="headerlink" title="测试任务识别"></a><strong>测试任务识别</strong></h2><p>1.工作量预估：测试时间通常占开发时间的30%-40%，根据开发进展，及时更新工作量预估，有问题及时调整。</p><p>2.测试准备：测试用例、构造测试数据、开发接口脚本、自动化脚本及性能测试脚本</p><p>3.测试执行：所发现问题及时记录，便于后期的缺陷跟踪</p><h2 id="测试资源分析"><a href="#测试资源分析" class="headerlink" title="测试资源分析"></a><strong>测试资源分析</strong></h2><p>确保所需的测试资源到位（测试用例、环境搭建、管理工具），否则可能无法如期开展测试活动。</p><h2 id="测试风险分析"><a href="#测试风险分析" class="headerlink" title="测试风险分析"></a><strong>测试风险分析</strong></h2><ol><li>项目风险：团队组织因素、技术因素、供应商</li><li>产品风险：市场需求定位不准，用户需求调研不充分，综合测试工程师的智慧，识别风险，制定风险的预防及应对措施，从而提高测试活动的质量</li><li>外因风险：政府监管、自然灾害等，需提前预判、基于风险给出可靠的解决措施，以便应对测试活动实施时可能出现的问题。</li></ol><h1 id="测试任务分配"><a href="#测试任务分配" class="headerlink" title="测试任务分配"></a><strong>测试任务分配</strong></h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《软件测试技术》02</title>
+    <link href="/note-software%20testing%20technology-02/"/>
+    <url>/note-software%20testing%20technology-02/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一、敏捷测试和传统的软件测试的区别"><a href="#一、敏捷测试和传统的软件测试的区别" class="headerlink" title="一、敏捷测试和传统的软件测试的区别"></a><strong>一、敏捷测试和传统的软件测试的区别</strong></h1><ol><li>敏捷测试：测试过程中更聚焦于结果交付，非过程控制，不强调流程的规范性。更强调团队成员间的交互，需求不断调整的速度。及时发现问题，及时反馈问题，及时修复问题，及时验证新版本。</li><li>传统的软件测试：需制定周详的测试计划，没有经过评审的测试计划，将无法开展有效的测试活动。</li></ol><h1 id="二、敏捷测试工作职责"><a href="#二、敏捷测试工作职责" class="headerlink" title="二、敏捷测试工作职责"></a><strong>二、敏捷测试工作职责</strong></h1><ol><li>明确验收要求</li><li>跟踪处理缺陷</li><li>及时沟通反馈</li></ol><h1 id="三、敏捷测试流程"><a href="#三、敏捷测试流程" class="headerlink" title="三、敏捷测试流程"></a><strong>三、敏捷测试流程</strong></h1><ol><li>分析测试对象： 熟悉被测的需求，以获得待办事项列表、用户故事集、需求大纲等资料，通过阅读从总体上掌握被测对象情况，便于开展后续的需求分析、用例设计等工作。</li><li>分析测试需求</li><li>设计测试用例</li><li>搭建测试环境</li><li>执行测试用例：发现有遗漏或者不完善的测试用例，应当及时更新。</li><li>跟踪处理缺陷</li><li>输出测试报告：从而帮助项目经理、产品经理及其他利益相关方了解被测对象的质量情况，以决定下一步的工作计划。</li><li>实施自动化测试</li><li>实施性能测试</li></ol><h1 id="四、团队组织构成"><a href="#四、团队组织构成" class="headerlink" title="四、团队组织构成"></a><strong>四、团队组织构成</strong></h1><ol><li>产品经理 ：负责当前产品的规划、需求提出、成本预算等工作哈，还应当将规划的产品告知开发团队，确保每个成员知悉产品。</li><li>项目经理 ：计划、管理、监督。</li><li>开发工程师：承担具体设计、开发任务。</li><li>测试工程师：承担测试需求管理、测试用例设计、测试用例执行等活动，与开发团队成员加强交互。</li><li>UI 设计工程师：负责产品的 UI 设计，与开发团队成员交互，确保 UI 设计满足产品设定及用户习惯。</li><li>架构设计师 ：负责整个产品的整体架构设计，一般由项目经理担任，需要关注产品需求外，需考虑整个产品的稳定、安全、兼容等质量特性。</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+      <tag>敏捷开发</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《软件测试技术》01.1.md</title>
+    <link href="/note-software%20testing%20technology-01.1/"/>
+    <url>/note-software%20testing%20technology-01.1/</url>
+    
+    <content type="html"><![CDATA[<h1 id="四、软件测试分类"><a href="#四、软件测试分类" class="headerlink" title="四、软件测试分类"></a><strong>四、软件测试分类</strong></h1><h2 id="测试方法划分"><a href="#测试方法划分" class="headerlink" title="测试方法划分"></a><strong>测试方法划分</strong></h2><ol><li>黑盒测试（功能测试）：被测对象每个功能能否正常使用，是否满足用户的需求</li><li>白盒测试：深入考查程序代码的内部结构、逻辑设计等（这个测试方法我还没有接触过）</li><li>灰盒测试：结合黑盒测试和白盒测试方法，一方面考虑程序代码的功能性表现，另一方4面又需要考虑程序代码的内部结构</li><li>静态测试：通过评审的方式，找出文档资料、程序代码中存在缺陷的地方，并加以修改</li><li>动态测试：执行事先设计好的测试用例，检查程序代码运行得到的结果与测试用例中设计的预期结果之间是否有差异</li><li>手工测试：执行测试用例，比较实际结果与预期结果，记录两者的差异，最终输出缺陷报告和测试报告</li><li>自动化测试：利用一些测试工具，编写一些代码，模拟用户的业务使用流程，自动运行来查找缺陷</li></ol><h2 id="测试阶段划分"><a href="#测试阶段划分" class="headerlink" title="测试阶段划分"></a><strong>测试阶段划分</strong></h2><ol><li>需求测试：从需求文档的规范性、正确性等方面检查需求调研阶段生成的文档</li><li>单元测试（模块测试）：设计模块单元测试</li><li>集成测试（组装测试）接口是否存在问题：</li><li>系统测试：进行安装与卸载测试，兼容性测试、功能确认测试和安全性测试</li><li>用户测试：需要用户对本系统做出一个评价，用户可对交付的系统做测试，并将测试结果反馈回来，进行修改、分析</li><li>回归测试：缺陷修复完成后，测试工程师需重新执行测试用例，以验证缺陷是否成功修复，并且没有引发新的缺陷</li></ol><p><strong>备注：编写测试用例-评审测试用例-执行测试用例（模块、交叉测试）- Bug 反馈-追踪 Bug</strong></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+      <tag>测试方法</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Andriod 截图工具-Vysor</title>
-    <link href="/Vysor/"/>
-    <url>/Vysor/</url>
+    <link href="/tool-vysor/"/>
+    <url>/tool-vysor/</url>
     
     <content type="html"><![CDATA[<p>对于 Android 的手机、平板的截图软件，可以随便找一些工具就行，但是对于没有截屏功能的备，常用的截图工具不一定能实现正常截图，所以只能另行查找软件，这里推荐的是 Vysor，一款功能强大的截图软件，能够在 Chrome 里通过 USB 直接控制 Android 设备，唯一不好就是每隔15分钟会跳出广告，虽然可以直接关掉但还是会带来不好的体验。</p><p><strong>一、下载</strong> </p><ol><li>由于 Vysor 是一款 Chrome 扩展应用，在谷歌的应用商店搜索 Vysor，并添加至Chrome，方便启动</li></ol><p>*添加 Chrome，需要有 Google 账号</p><p>*在谷歌的应用商店搜索不到这个应用可以是试下这个链接</p><p><a href="https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm">https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm</a></p><ol start="2"><li><p>进入 Vysor 官网，下载安装包，记住软件的类型不要选错</p></li><li><p>安装完成之后，启动 Vysor</p></li></ol><p><img src="https://i.loli.net/2020/10/09/jlK3h18TzXIreB4.png" alt="jlK3h18TzXIreB4"></p><p><strong>二、连接安卓设备/手机</strong></p><ol><li>使用 USB 接口连接安卓设备/手机</li></ol><p>*windows 用户需要单独下载 ADB Drivers（windows 10 可无需下载）， Mac 机无需下载</p><p>*手机端需要打开 USB 调试模式，这只需设置一次即可，在大多数安卓手机上这个选项是被隐藏起的，你需要进入「设置→关于手机」，找到「版本号」一栏并连续快速点击它多次，系统就会弹出“开启开发者选项”的消息了。然后找到「设置→开发者选项→USB调试」开启即可</p><p><img src="https://i.loli.net/2020/10/09/tGiVEcBayTjP2J4.png" alt="tGiVEcBayTjP2J4"></p><p><strong>三、连接成功，开始使用</strong></p><ol><li>点击右上角相机图标就可以把你想要的图片截屏</li></ol><p><img src="https://i.loli.net/2020/10/09/87UbrlOazupDMWC.png" alt="87UbrlOazupDMWC"></p><p><strong>四、注意</strong></p><ol><li>需要连接外网，才能进行以上操作</li></ol>]]></content>
     
@@ -346,8 +544,8 @@
   
   <entry>
     <title>Android 和 iOS 设计规范</title>
-    <link href="/Android%20and%20IOS%20design%20specification/"/>
-    <url>/Android%20and%20IOS%20design%20specification/</url>
+    <link href="/sketch-design%20code-02/"/>
+    <url>/sketch-design%20code-02/</url>
     
     <content type="html"><![CDATA[<h2 id="iOS-设计规范"><a href="#iOS-设计规范" class="headerlink" title="iOS 设计规范"></a><strong>iOS 设计规范</strong></h2><ol><li>常用尺寸：750*1334px</li></ol><p><img src="https://i.loli.net/2020/10/14/5Gnu6LqxZUthH4o.png" alt="5Gnu6LqxZUthH4o"></p><ol start="2"><li><p>状态栏：放信号、日期、电量</p></li><li><p>导航栏：用于实现在应用不同信息层级结构间的导航，有时也可用于管理当前屏幕内容</p></li><li><p>标签栏：一般3-5个图标，超过5个则第五个用更多图标表示。在不同对子任务、视图、模式切换</p></li><li><p>工具栏：放置操作当前屏幕中各对象的控件；工具栏上既可以放icon，也可以放文字</p></li></ol><p><img src="https://i.loli.net/2020/10/14/SyH8RqsozcaPd69.png" alt="SyH8RqsozcaPd69"></p><ol start="6"><li>边距和间距</li></ol><p>1&gt;全局边距：页面内容到屏幕边缘的距离，常用的全局边距有32px、30px、24px、20px等等，有一个特点就是数值全是偶数。</p><p><img src="https://i.loli.net/2020/10/18/sWejxXKY4lnwPR1.png" alt="sWejxXKY4lnwPR1"></p><p>2&gt;卡片间距：通常最小不低于16px，使用最多的间距是20px、24px、30px、40px，间距的颜色设置可以与分割线一致，也可以更浅一些。</p><p><img src="https://i.loli.net/2020/10/14/GToyrx3fJRq4cew.png" alt="GToyrx3fJRq4cew"></p><ol start="7"><li>内容布局</li></ol><p>1&gt;列表式布局</p><p>2&gt;卡片式布局</p><ol start="8"><li>列表:对齐、对称、分组</li></ol><p><img src="https://i.loli.net/2020/10/14/dWf8XUgyR2vkMqh.png" alt="dWf8XUgyR2vkMqh"><img src="https://i.loli.net/2020/10/14/QWdYilvT1jBaRVx.png" alt="gLKFYi.png"></p><p><img src="https://i.loli.net/2020/10/14/Epz5s6XgR9ekxJc.png" alt="Epz5s6XgR9ekxJc"></p><ol start="9"><li><p>字体：苹方</p></li><li><p>字号大小（偶数）：一般在22-36之间</p></li></ol><p><img src="https://i.loli.net/2020/10/14/4Ao7rjE5xDwImLb.png" alt="4Ao7rjE5xDwImLb"></p><ol start="11"><li><p>图标尺寸</p><p>1&gt;可点击区域不小于44px</p></li></ol><p>2&gt;标签栏常用图标尺寸44、48、50px</p><p>3&gt;统一风格的图标</p><h2 id="Android-设计规范（需分情况：1dp-2px）"><a href="#Android-设计规范（需分情况：1dp-2px）" class="headerlink" title="Android 设计规范（需分情况：1dp=2px）"></a><strong>Android 设计规范（需分情况：1dp=2px）</strong></h2><ol><li>常用尺寸：720*1280px</li><li>状态栏：放信号、日期、电量</li><li>顶部应用栏：标题左对齐</li><li>标签栏：2-3个标签组成，图标过多时，左右滑动查看更多</li><li>底部导航栏：图标数量3-5之间，必须加文字</li><li>抽屉式导航：对应用功能页面切换</li></ol><p><img src="https://i.loli.net/2020/10/14/nZAoYi3pECge1IJ.png" alt="nZAoYi3pECge1IJ"></p><ol start="7"><li>间距：16px</li><li>字体：思源黑体</li><li>字号大小</li></ol><p>1&gt;顶部栏：16-20px之间</p><p>2&gt;正文：12-18px之间</p><p>3&gt;底部栏：10px</p><ol start="10"><li>图标尺寸</li></ol><p>1&gt;xhdpi：96px、76px（方行）、88px（圆形）、64*88px（长方形）</p><p>2&gt;xxhdpi:144px、114px（方行）、132px（圆形）、96*132px（长方形）</p><p>3&gt;xxxhdpi:192px、152px（方行）、176px（圆形）、128*176px（长方形）</p><p>4&gt;对称、简单、清晰度、线需统一大小</p><p>5&gt;常用图标尺寸：48px</p><p>6&gt;图标内容：40px（圆形）、36px（方形）、32*40px（长方形）</p><p>7&gt;图标的圆角大小0-8px之间</p><p>8&gt;图标触摸区域：96px</p><ol start="11"><li>边距</li></ol><p>1&gt;应用栏高度：56dp</p><p>2&gt;应用栏左右内边距：16dp</p><p>3&gt;应用栏图标上、下、左边距：16dp</p><p>4&gt;应用栏标题左边距：72dp</p><p>5&gt;应用栏标题下边距：20dp</p><p>6&gt;操作区域高度：56dp</p><p>7&gt;标题区域高度：80dp</p><p>8&gt;标题区域下边距：8dp</p><p>9&gt;描述区域高度：72dp</p><p>10&gt;描述区域下边距：16dp</p><p><img src="https://i.loli.net/2020/10/14/hxCiA9Vy4knEpfl.png" alt="hxCiA9Vy4knEpfl"></p>]]></content>
     
@@ -373,8 +571,8 @@
   
   <entry>
     <title>设计尺寸与比例关系</title>
-    <link href="/Design%20dimension%20and%20proportion/"/>
-    <url>/Design%20dimension%20and%20proportion/</url>
+    <link href="/sketch-design/"/>
+    <url>/sketch-design/</url>
     
     <content type="html"><![CDATA[<h2 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a><strong>iOS</strong></h2><p><strong>1.存在 1、2、3 倍数关系</strong></p><p>*<em>2.常用尺寸：750</em>1334px**</p><p><img src="https://i.loli.net/2020/10/14/2PVU6TghdLWEsqc.png" alt="2PVU6TghdLWEsqc"></p><p><strong>3.750×1334向下适配640×1136</strong></p><p>1&gt;首先打开750x1334px的设计稿，执行 Command+Alt+C（改变画布大小的快捷键），鼠标左键单击「定位」的左上角的格子，设置宽高为640和1136，点击「确定」。</p><p>2&gt;改变画布大小之后，设计稿的右边和下边都被裁切（上面左图中半透明蒙版覆盖区域），画布缩小成640x1136px。</p><p>3&gt;导航栏右边的图标向左移动保持和原来的右边距一致，标题居中。</p><p>4&gt;首焦图高度除以1.17（750／640=1.17得到）后居中，宽度640px。</p><p>5&gt;主要入口右边的图标向左移动保持和原来的右边距一致，各图标的间距等宽。</p><p><img src="https://i.loli.net/2020/10/14/Ovai52k4jNp9L6b.png" alt="Ovai52k4jNp9L6b"></p><p><strong>4.图标</strong></p><p><img src="https://i.loli.net/2020/10/14/9BKQbScoil6YCuT.png" alt="9BKQbScoil6YCuT"></p><h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a><strong>Android</strong></h2><p><strong>1.存在 1、2、3、4 倍数关系</strong></p><p>*<em>2.常用尺寸：720</em>1280px**</p><p><img src="https://i.loli.net/2020/10/18/Kkcz9LbJQgWDHS6.png" alt="Kkcz9LbJQgWDHS6"></p><p><strong>3.图标</strong></p><p>图标用途 mdpi (160dpi) 、hdpi (240dpi) 、xhdpi (320dpi) 、xxhdpi (480dpi) 、 (640dpi)</p><p>应用图标 48 x 48 px、 72 x 72 px 、96 x 96 px 、144 x 144 px、 192 x 192 px</p><p>系统图标 24 x 24 px 、36 x 36 px 、48 x 48 px 、72 x 72 px 、196 x 196 px</p><p><img src="https://i.loli.net/2020/10/14/AuYPcfKVI6C7H5E.png" alt="AuYPcfKVI6C7H5E"></p>]]></content>
     
@@ -400,8 +598,8 @@
   
   <entry>
     <title>腾讯微云共享组功能</title>
-    <link href="/%20Shared%20group/"/>
-    <url>/%20Shared%20group/</url>
+    <link href="/tool-shared%20group/"/>
+    <url>/tool-shared%20group/</url>
     
     <content type="html"><![CDATA[<p><strong>一、在线编辑</strong></p><p>可选择要修改的文档</p><p><img src="https://i.loli.net/2020/10/09/HsqV3bdKWSc7Xme.png" alt="HsqV3bdKWSc7Xme"></p><p>分享文档链接，接收者可在线编辑</p><p><img src="https://i.loli.net/2020/10/09/6kwfgyiRQlu8tKE.png" alt="6kwfgyiRQlu8tKE"></p><p><strong>二、再上传共享组</strong></p><p><img src="https://i.loli.net/2020/10/09/xdRJ89SMpOlkrCA.png" alt="xdRJ89SMpOlkrCA"></p><p><strong>三、共享组</strong></p><p>共享组功能可以更方便的“一个团队”内进行文件的共享，有点类似 QQ 群的“群文件”</p><p><strong>四、共享组创建</strong></p><p>创建共享组</p><p><img src="https://i.loli.net/2020/10/09/MKLOlaNdoJXRbjY.png" alt="MKLOlaNdoJXRbjY"></p><p>点击“新建共享组”可修改属于自己共享组名称，后续就无法进行修改</p><p><img src="https://i.loli.net/2020/10/09/p8H4J6wakWg2qVl.png" alt="p8H4J6wakWg2qVl"></p><p>加入要分享的文件</p><p><img src="https://i.loli.net/2020/10/09/Bg3vIO7TSQycGRs.png" alt="Bg3vIO7TSQycGRs"></p><p>邀请成员加入</p><p><img src="https://i.loli.net/2020/10/09/knMJubReTyPwjfi.png" alt="knMJubReTyPwjfi"></p><p>加入者：成员接收到创建者的邀请后，点击“加入”即可</p><p>加入者：查看共享组内的文件</p><p>加入者：也可加入要分享的文件</p><p><strong>五、共享组文件删除</strong></p><p>共享组创建者是可删除任意文件，成员只能删除自己上传的文件</p><p><img src="https://i.loli.net/2020/10/09/ewdsavbBOEikMNF.png" alt="ewdsavbBOEikMNF"></p><p><strong>六、共享组缺点</strong></p><p>无法进行在线编辑</p><p>无法移除已加入共享组的好友们</p><p>共享组创建者和群组成员上传文件都是占用共享组创建者个人云盘空间的</p>]]></content>
     
@@ -427,8 +625,8 @@
   
   <entry>
     <title>从“新”出发</title>
-    <link href="/Starting%20from%20%22new%22/"/>
-    <url>/Starting%20from%20%22new%22/</url>
+    <link href="/record-starting%20from%20%22new%22/"/>
+    <url>/record-starting%20from%20%22new%22/</url>
     
     <content type="html"><![CDATA[<p>之前我一直从事行政、前台的文职类工作，天天浑浑噩噩，过着得过且过的日子，出来社会这么久自己都不了解自己想要什么，更加不知自己的目标是什么，想法也一直摇摆不定，更不要说对未来的规划了。虽然岗位问题我是有考虑过，对于职业生涯很头疼也很焦虑，并且也尝试业余学习其他来改变现在状态。但还是没有成功，也没有找到突破口。直到 8 月底，物联网部门在招项目助理(协助部门大佬部门管理，项目协调，软件测试等工作)，这个岗位后期发展比较灵活，可以往产品 UI 测试多方面发展。我自己一直想要往更好的方向发展，也觉得互联网发展前景也比较好，刚好现在有一个这么好的机会也可以提升自己，不想错过、也不想在继续过着浑浑噩噩的日子，所以向该部门的大佬申请加入这个团队。</p><p>  接下来是最重要的事情–学习来提升自己。学习作为一种永无止境的人生追求，一刻也不能放松，前进的动力要从学习中获得，尤其是知识经济时代， 边学习，边工作。用工作带学习，以学习促进工作，在学习中有所发现，有所创造，不断升华自己的专业技术，不断创造。从来都没有想过会在去碰英语的我。对英语这一块不喜欢和无奈的我，为了更好的自己、也考虑到英语的重要性，上网找了一些适合自己也能帮助自己学习的视频（分类归纳记忆法），也找学英语的 App，先把自己的词汇量增加，试着突破自己，看能不能有所改善，不再抗拒而是喜欢..这边也有在提升自己学历，并且也想过后期经济稳定一些，再去自考本科，毕竟大城市还是比较看中学历这块的。</p><p>  9.9 正式迎来岗位的转变，对于这个岗位来说我是一名小白，但我会尽快让自己上手，不拖部门的后腿。这两周都在学习新东西：注意中英文排版问题；更新应用版本（先检测这个包有没有问题在加固和签名然后在检测有没有问题最后才上传）；测试等。</p><p>  哦还有一个，我现在也是有属于自己域名：<a href="http://yuuilee.com/">yuuilee.com</a>。刚开始想 id 名字的时候，都有考虑用鱼，鲤鱼的英文单词了，跟我的名字有点像的谐音，还好还好，是朋友阻止了我，觉得取带有这样含义的有点搞笑很幼稚。</p>]]></content>
     
