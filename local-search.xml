@@ -4,6 +4,60 @@
   
   
   <entry>
+    <title>Android 和 iOS 设计规范</title>
+    <link href="/sketch-design%20code-02/"/>
+    <url>/sketch-design%20code-02/</url>
+    
+    <content type="html"><![CDATA[<h2 id="iOS-设计规范"><a href="#iOS-设计规范" class="headerlink" title="iOS 设计规范"></a><strong>iOS 设计规范</strong></h2><ol><li>常用尺寸：750*1334px</li></ol><p><img src="https://i.loli.net/2020/10/14/5Gnu6LqxZUthH4o.png" alt="5Gnu6LqxZUthH4o"></p><ol start="2"><li><p>状态栏：放信号、日期、电量</p></li><li><p>导航栏：用于实现在应用不同信息层级结构间的导航，有时也可用于管理当前屏幕内容</p></li><li><p>标签栏：一般3-5个图标，超过5个则第五个用更多图标表示。在不同对子任务、视图、模式切换</p></li><li><p>工具栏：放置操作当前屏幕中各对象的控件；工具栏上既可以放icon，也可以放文字</p></li></ol><p><img src="https://i.loli.net/2020/10/14/SyH8RqsozcaPd69.png" alt="SyH8RqsozcaPd69"></p><ol start="6"><li>边距和间距</li></ol><p>1&gt;全局边距：页面内容到屏幕边缘的距离，常用的全局边距有32px、30px、24px、20px等等，有一个特点就是数值全是偶数。</p><p><img src="https://i.loli.net/2020/10/18/sWejxXKY4lnwPR1.png" alt="sWejxXKY4lnwPR1"></p><p>2&gt;卡片间距：通常最小不低于16px，使用最多的间距是20px、24px、30px、40px，间距的颜色设置可以与分割线一致，也可以更浅一些。</p><p><img src="https://i.loli.net/2020/10/14/GToyrx3fJRq4cew.png" alt="GToyrx3fJRq4cew"></p><ol start="7"><li>内容布局</li></ol><p>1&gt;列表式布局</p><p>2&gt;卡片式布局</p><ol start="8"><li>列表:对齐、对称、分组</li></ol><p><img src="https://i.loli.net/2020/10/14/dWf8XUgyR2vkMqh.png" alt="dWf8XUgyR2vkMqh"><img src="https://i.loli.net/2020/10/14/QWdYilvT1jBaRVx.png" alt="gLKFYi.png"></p><p><img src="https://i.loli.net/2020/10/14/Epz5s6XgR9ekxJc.png" alt="Epz5s6XgR9ekxJc"></p><ol start="9"><li><p>字体：苹方</p></li><li><p>字号大小（偶数）：一般在22-36之间</p></li></ol><p><img src="https://i.loli.net/2020/10/14/4Ao7rjE5xDwImLb.png" alt="4Ao7rjE5xDwImLb"></p><ol start="11"><li><p>图标尺寸</p><p>1&gt;可点击区域不小于44px</p></li></ol><p>2&gt;标签栏常用图标尺寸44、48、50px</p><p>3&gt;统一风格的图标</p><h2 id="Android-设计规范（需分情况：1dp-2px）"><a href="#Android-设计规范（需分情况：1dp-2px）" class="headerlink" title="Android 设计规范（需分情况：1dp=2px）"></a><strong>Android 设计规范（需分情况：1dp=2px）</strong></h2><ol><li>常用尺寸：720*1280px</li><li>状态栏：放信号、日期、电量</li><li>顶部应用栏：标题左对齐</li><li>标签栏：2-3个标签组成，图标过多时，左右滑动查看更多</li><li>底部导航栏：图标数量3-5之间，必须加文字</li><li>抽屉式导航：对应用功能页面切换</li></ol><p><img src="https://i.loli.net/2020/10/14/nZAoYi3pECge1IJ.png" alt="nZAoYi3pECge1IJ"></p><ol start="7"><li>间距：16px</li><li>字体：思源黑体</li><li>字号大小</li></ol><p>1&gt;顶部栏：16-20px之间</p><p>2&gt;正文：12-18px之间</p><p>3&gt;底部栏：10px</p><ol start="10"><li>图标尺寸</li></ol><p>1&gt;xhdpi：96px、76px（方行）、88px（圆形）、64*88px（长方形）</p><p>2&gt;xxhdpi:144px、114px（方行）、132px（圆形）、96*132px（长方形）</p><p>3&gt;xxxhdpi:192px、152px（方行）、176px（圆形）、128*176px（长方形）</p><p>4&gt;对称、简单、清晰度、线需统一大小</p><p>5&gt;常用图标尺寸：48px</p><p>6&gt;图标内容：40px（圆形）、36px（方形）、32*40px（长方形）</p><p>7&gt;图标的圆角大小0-8px之间</p><p>8&gt;图标触摸区域：96px</p><ol start="11"><li>边距</li></ol><p>1&gt;应用栏高度：56dp</p><p>2&gt;应用栏左右内边距：16dp</p><p>3&gt;应用栏图标上、下、左边距：16dp</p><p>4&gt;应用栏标题左边距：72dp</p><p>5&gt;应用栏标题下边距：20dp</p><p>6&gt;操作区域高度：56dp</p><p>7&gt;标题区域高度：80dp</p><p>8&gt;标题区域下边距：8dp</p><p>9&gt;描述区域高度：72dp</p><p>10&gt;描述区域下边距：16dp</p><p><img src="https://i.loli.net/2020/10/14/hxCiA9Vy4knEpfl.png" alt="hxCiA9Vy4knEpfl"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Android</tag>
+      
+      <tag>iOS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>设计尺寸与比例关系</title>
+    <link href="/sketch-design/"/>
+    <url>/sketch-design/</url>
+    
+    <content type="html"><![CDATA[<h2 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a><strong>iOS</strong></h2><p><strong>1.存在 1、2、3 倍数关系</strong></p><p>*<em>2.常用尺寸：750</em>1334px**</p><p><img src="https://i.loli.net/2020/10/14/2PVU6TghdLWEsqc.png" alt="2PVU6TghdLWEsqc"></p><p><strong>3.750×1334向下适配640×1136</strong></p><p>1&gt;首先打开750x1334px的设计稿，执行 Command+Alt+C（改变画布大小的快捷键），鼠标左键单击「定位」的左上角的格子，设置宽高为640和1136，点击「确定」。</p><p>2&gt;改变画布大小之后，设计稿的右边和下边都被裁切（上面左图中半透明蒙版覆盖区域），画布缩小成640x1136px。</p><p>3&gt;导航栏右边的图标向左移动保持和原来的右边距一致，标题居中。</p><p>4&gt;首焦图高度除以1.17（750／640=1.17得到）后居中，宽度640px。</p><p>5&gt;主要入口右边的图标向左移动保持和原来的右边距一致，各图标的间距等宽。</p><p><img src="https://i.loli.net/2020/10/14/Ovai52k4jNp9L6b.png" alt="Ovai52k4jNp9L6b"></p><p><strong>4.图标</strong></p><p><img src="https://i.loli.net/2020/10/14/9BKQbScoil6YCuT.png" alt="9BKQbScoil6YCuT"></p><h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a><strong>Android</strong></h2><p><strong>1.存在 1、2、3、4 倍数关系</strong></p><p>*<em>2.常用尺寸：720</em>1280px**</p><p><img src="https://i.loli.net/2020/10/18/Kkcz9LbJQgWDHS6.png" alt="Kkcz9LbJQgWDHS6"></p><p><strong>3.图标</strong></p><p>图标用途 mdpi (160dpi) 、hdpi (240dpi) 、xhdpi (320dpi) 、xxhdpi (480dpi) 、 (640dpi)</p><p>应用图标 48 x 48 px、 72 x 72 px 、96 x 96 px 、144 x 144 px、 192 x 192 px</p><p>系统图标 24 x 24 px 、36 x 36 px 、48 x 48 px 、72 x 72 px 、196 x 196 px</p><p><img src="https://i.loli.net/2020/10/14/AuYPcfKVI6C7H5E.png" alt="AuYPcfKVI6C7H5E"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Android</tag>
+      
+      <tag>iOS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>初级实务笔记：#3 - 会计科目</title>
     <link href="/accounting-primary%20practice-3/"/>
     <url>/accounting-primary%20practice-3/</url>
@@ -179,6 +233,33 @@
     <tags>
       
       <tag>草料</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>腾讯微云共享组功能</title>
+    <link href="/tool-shared%20group/"/>
+    <url>/tool-shared%20group/</url>
+    
+    <content type="html"><![CDATA[<p><strong>一、在线编辑</strong></p><p>可选择要修改的文档</p><p><img src="https://i.loli.net/2020/10/09/HsqV3bdKWSc7Xme.png" alt="HsqV3bdKWSc7Xme"></p><p>分享文档链接，接收者可在线编辑</p><p><img src="https://i.loli.net/2020/10/09/6kwfgyiRQlu8tKE.png" alt="6kwfgyiRQlu8tKE"></p><p><strong>二、再上传共享组</strong></p><p><img src="https://i.loli.net/2020/10/09/xdRJ89SMpOlkrCA.png" alt="xdRJ89SMpOlkrCA"></p><p><strong>三、共享组</strong></p><p>共享组功能可以更方便的“一个团队”内进行文件的共享，有点类似 QQ 群的“群文件”</p><p><strong>四、共享组创建</strong></p><p>创建共享组</p><p><img src="https://i.loli.net/2020/10/09/MKLOlaNdoJXRbjY.png" alt="MKLOlaNdoJXRbjY"></p><p>点击“新建共享组”可修改属于自己共享组名称，后续就无法进行修改</p><p><img src="https://i.loli.net/2020/10/09/p8H4J6wakWg2qVl.png" alt="p8H4J6wakWg2qVl"></p><p>加入要分享的文件</p><p><img src="https://i.loli.net/2020/10/09/Bg3vIO7TSQycGRs.png" alt="Bg3vIO7TSQycGRs"></p><p>邀请成员加入</p><p><img src="https://i.loli.net/2020/10/09/knMJubReTyPwjfi.png" alt="knMJubReTyPwjfi"></p><p>加入者：成员接收到创建者的邀请后，点击“加入”即可</p><p>加入者：查看共享组内的文件</p><p>加入者：也可加入要分享的文件</p><p><strong>五、共享组文件删除</strong></p><p>共享组创建者是可删除任意文件，成员只能删除自己上传的文件</p><p><img src="https://i.loli.net/2020/10/09/ewdsavbBOEikMNF.png" alt="ewdsavbBOEikMNF"></p><p><strong>六、共享组缺点</strong></p><p>无法进行在线编辑</p><p>无法移除已加入共享组的好友们</p><p>共享组创建者和群组成员上传文件都是占用共享组创建者个人云盘空间的</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>工具</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>共享组</tag>
+      
+      <tag>腾讯微云</tag>
       
     </tags>
     
@@ -549,87 +630,6 @@
       <tag>Vysor</tag>
       
       <tag>截图工具</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Android 和 iOS 设计规范</title>
-    <link href="/sketch-design%20code-02/"/>
-    <url>/sketch-design%20code-02/</url>
-    
-    <content type="html"><![CDATA[<h2 id="iOS-设计规范"><a href="#iOS-设计规范" class="headerlink" title="iOS 设计规范"></a><strong>iOS 设计规范</strong></h2><ol><li>常用尺寸：750*1334px</li></ol><p><img src="https://i.loli.net/2020/10/14/5Gnu6LqxZUthH4o.png" alt="5Gnu6LqxZUthH4o"></p><ol start="2"><li><p>状态栏：放信号、日期、电量</p></li><li><p>导航栏：用于实现在应用不同信息层级结构间的导航，有时也可用于管理当前屏幕内容</p></li><li><p>标签栏：一般3-5个图标，超过5个则第五个用更多图标表示。在不同对子任务、视图、模式切换</p></li><li><p>工具栏：放置操作当前屏幕中各对象的控件；工具栏上既可以放icon，也可以放文字</p></li></ol><p><img src="https://i.loli.net/2020/10/14/SyH8RqsozcaPd69.png" alt="SyH8RqsozcaPd69"></p><ol start="6"><li>边距和间距</li></ol><p>1&gt;全局边距：页面内容到屏幕边缘的距离，常用的全局边距有32px、30px、24px、20px等等，有一个特点就是数值全是偶数。</p><p><img src="https://i.loli.net/2020/10/18/sWejxXKY4lnwPR1.png" alt="sWejxXKY4lnwPR1"></p><p>2&gt;卡片间距：通常最小不低于16px，使用最多的间距是20px、24px、30px、40px，间距的颜色设置可以与分割线一致，也可以更浅一些。</p><p><img src="https://i.loli.net/2020/10/14/GToyrx3fJRq4cew.png" alt="GToyrx3fJRq4cew"></p><ol start="7"><li>内容布局</li></ol><p>1&gt;列表式布局</p><p>2&gt;卡片式布局</p><ol start="8"><li>列表:对齐、对称、分组</li></ol><p><img src="https://i.loli.net/2020/10/14/dWf8XUgyR2vkMqh.png" alt="dWf8XUgyR2vkMqh"><img src="https://i.loli.net/2020/10/14/QWdYilvT1jBaRVx.png" alt="gLKFYi.png"></p><p><img src="https://i.loli.net/2020/10/14/Epz5s6XgR9ekxJc.png" alt="Epz5s6XgR9ekxJc"></p><ol start="9"><li><p>字体：苹方</p></li><li><p>字号大小（偶数）：一般在22-36之间</p></li></ol><p><img src="https://i.loli.net/2020/10/14/4Ao7rjE5xDwImLb.png" alt="4Ao7rjE5xDwImLb"></p><ol start="11"><li><p>图标尺寸</p><p>1&gt;可点击区域不小于44px</p></li></ol><p>2&gt;标签栏常用图标尺寸44、48、50px</p><p>3&gt;统一风格的图标</p><h2 id="Android-设计规范（需分情况：1dp-2px）"><a href="#Android-设计规范（需分情况：1dp-2px）" class="headerlink" title="Android 设计规范（需分情况：1dp=2px）"></a><strong>Android 设计规范（需分情况：1dp=2px）</strong></h2><ol><li>常用尺寸：720*1280px</li><li>状态栏：放信号、日期、电量</li><li>顶部应用栏：标题左对齐</li><li>标签栏：2-3个标签组成，图标过多时，左右滑动查看更多</li><li>底部导航栏：图标数量3-5之间，必须加文字</li><li>抽屉式导航：对应用功能页面切换</li></ol><p><img src="https://i.loli.net/2020/10/14/nZAoYi3pECge1IJ.png" alt="nZAoYi3pECge1IJ"></p><ol start="7"><li>间距：16px</li><li>字体：思源黑体</li><li>字号大小</li></ol><p>1&gt;顶部栏：16-20px之间</p><p>2&gt;正文：12-18px之间</p><p>3&gt;底部栏：10px</p><ol start="10"><li>图标尺寸</li></ol><p>1&gt;xhdpi：96px、76px（方行）、88px（圆形）、64*88px（长方形）</p><p>2&gt;xxhdpi:144px、114px（方行）、132px（圆形）、96*132px（长方形）</p><p>3&gt;xxxhdpi:192px、152px（方行）、176px（圆形）、128*176px（长方形）</p><p>4&gt;对称、简单、清晰度、线需统一大小</p><p>5&gt;常用图标尺寸：48px</p><p>6&gt;图标内容：40px（圆形）、36px（方形）、32*40px（长方形）</p><p>7&gt;图标的圆角大小0-8px之间</p><p>8&gt;图标触摸区域：96px</p><ol start="11"><li>边距</li></ol><p>1&gt;应用栏高度：56dp</p><p>2&gt;应用栏左右内边距：16dp</p><p>3&gt;应用栏图标上、下、左边距：16dp</p><p>4&gt;应用栏标题左边距：72dp</p><p>5&gt;应用栏标题下边距：20dp</p><p>6&gt;操作区域高度：56dp</p><p>7&gt;标题区域高度：80dp</p><p>8&gt;标题区域下边距：8dp</p><p>9&gt;描述区域高度：72dp</p><p>10&gt;描述区域下边距：16dp</p><p><img src="https://i.loli.net/2020/10/14/hxCiA9Vy4knEpfl.png" alt="hxCiA9Vy4knEpfl"></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>笔记</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Android</tag>
-      
-      <tag>iOS</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>设计尺寸与比例关系</title>
-    <link href="/sketch-design/"/>
-    <url>/sketch-design/</url>
-    
-    <content type="html"><![CDATA[<h2 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a><strong>iOS</strong></h2><p><strong>1.存在 1、2、3 倍数关系</strong></p><p>*<em>2.常用尺寸：750</em>1334px**</p><p><img src="https://i.loli.net/2020/10/14/2PVU6TghdLWEsqc.png" alt="2PVU6TghdLWEsqc"></p><p><strong>3.750×1334向下适配640×1136</strong></p><p>1&gt;首先打开750x1334px的设计稿，执行 Command+Alt+C（改变画布大小的快捷键），鼠标左键单击「定位」的左上角的格子，设置宽高为640和1136，点击「确定」。</p><p>2&gt;改变画布大小之后，设计稿的右边和下边都被裁切（上面左图中半透明蒙版覆盖区域），画布缩小成640x1136px。</p><p>3&gt;导航栏右边的图标向左移动保持和原来的右边距一致，标题居中。</p><p>4&gt;首焦图高度除以1.17（750／640=1.17得到）后居中，宽度640px。</p><p>5&gt;主要入口右边的图标向左移动保持和原来的右边距一致，各图标的间距等宽。</p><p><img src="https://i.loli.net/2020/10/14/Ovai52k4jNp9L6b.png" alt="Ovai52k4jNp9L6b"></p><p><strong>4.图标</strong></p><p><img src="https://i.loli.net/2020/10/14/9BKQbScoil6YCuT.png" alt="9BKQbScoil6YCuT"></p><h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a><strong>Android</strong></h2><p><strong>1.存在 1、2、3、4 倍数关系</strong></p><p>*<em>2.常用尺寸：720</em>1280px**</p><p><img src="https://i.loli.net/2020/10/18/Kkcz9LbJQgWDHS6.png" alt="Kkcz9LbJQgWDHS6"></p><p><strong>3.图标</strong></p><p>图标用途 mdpi (160dpi) 、hdpi (240dpi) 、xhdpi (320dpi) 、xxhdpi (480dpi) 、 (640dpi)</p><p>应用图标 48 x 48 px、 72 x 72 px 、96 x 96 px 、144 x 144 px、 192 x 192 px</p><p>系统图标 24 x 24 px 、36 x 36 px 、48 x 48 px 、72 x 72 px 、196 x 196 px</p><p><img src="https://i.loli.net/2020/10/14/AuYPcfKVI6C7H5E.png" alt="AuYPcfKVI6C7H5E"></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>笔记</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Android</tag>
-      
-      <tag>iOS</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>腾讯微云共享组功能</title>
-    <link href="/tool-shared%20group/"/>
-    <url>/tool-shared%20group/</url>
-    
-    <content type="html"><![CDATA[<p><strong>一、在线编辑</strong></p><p>可选择要修改的文档</p><p><img src="https://i.loli.net/2020/10/09/HsqV3bdKWSc7Xme.png" alt="HsqV3bdKWSc7Xme"></p><p>分享文档链接，接收者可在线编辑</p><p><img src="https://i.loli.net/2020/10/09/6kwfgyiRQlu8tKE.png" alt="6kwfgyiRQlu8tKE"></p><p><strong>二、再上传共享组</strong></p><p><img src="https://i.loli.net/2020/10/09/xdRJ89SMpOlkrCA.png" alt="xdRJ89SMpOlkrCA"></p><p><strong>三、共享组</strong></p><p>共享组功能可以更方便的“一个团队”内进行文件的共享，有点类似 QQ 群的“群文件”</p><p><strong>四、共享组创建</strong></p><p>创建共享组</p><p><img src="https://i.loli.net/2020/10/09/MKLOlaNdoJXRbjY.png" alt="MKLOlaNdoJXRbjY"></p><p>点击“新建共享组”可修改属于自己共享组名称，后续就无法进行修改</p><p><img src="https://i.loli.net/2020/10/09/p8H4J6wakWg2qVl.png" alt="p8H4J6wakWg2qVl"></p><p>加入要分享的文件</p><p><img src="https://i.loli.net/2020/10/09/Bg3vIO7TSQycGRs.png" alt="Bg3vIO7TSQycGRs"></p><p>邀请成员加入</p><p><img src="https://i.loli.net/2020/10/09/knMJubReTyPwjfi.png" alt="knMJubReTyPwjfi"></p><p>加入者：成员接收到创建者的邀请后，点击“加入”即可</p><p>加入者：查看共享组内的文件</p><p>加入者：也可加入要分享的文件</p><p><strong>五、共享组文件删除</strong></p><p>共享组创建者是可删除任意文件，成员只能删除自己上传的文件</p><p><img src="https://i.loli.net/2020/10/09/ewdsavbBOEikMNF.png" alt="ewdsavbBOEikMNF"></p><p><strong>六、共享组缺点</strong></p><p>无法进行在线编辑</p><p>无法移除已加入共享组的好友们</p><p>共享组创建者和群组成员上传文件都是占用共享组创建者个人云盘空间的</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>工具</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>共享组</tag>
-      
-      <tag>腾讯微云</tag>
       
     </tags>
     
