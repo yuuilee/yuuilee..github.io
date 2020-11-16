@@ -108,6 +108,31 @@
   
   
   <entry>
+    <title>Sketch-小日历 icon 绘制</title>
+    <link href="/sketch-icon-small-calendar/"/>
+    <url>/sketch-icon-small-calendar/</url>
+    
+    <content type="html"><![CDATA[<ol><li>打开【Sketch】，【A】新建画板 500*500</li></ol><p><img src="https://i.loli.net/2020/10/14/zaDwlJoSZ4EQy3b.png" alt="zaDwlJoSZ4EQy3b"></p><ol start="2"><li><p>【R】绘制矩形 320*320，黄色渐变，改变圆角【19】</p></li><li><p>复制矩形 320*320，等比缩放 90%，透明度 67%</p></li><li><p>复制矩形 288*288，等比缩放 80%，透明度 27%</p></li></ol><p><img src="https://i.loli.net/2020/10/14/s3TGVJhySljn9pq.png" alt="s3TGVJhySljn9pq"></p><ol start="5"><li><p>【O】绘制椭圆形 376*44，颜色【000000】，透明度 9%，高斯模糊 4</p></li><li><p>【O】绘制两个正圆 284*284，交集为花瓣形状，渐变，透明度 53%，在复制一个，调整它们的位置</p></li></ol><p><img src="https://i.loli.net/2020/10/14/RbXVyvNDL84fkzZ.png" alt="RbXVyvNDL84fkzZ"></p><ol start="7"><li><p>绘制波浪素材，调整渐变</p></li><li><p>输入文案，添加阴影</p></li><li><p>效果如图所示</p></li></ol><p><img src="https://i.loli.net/2020/10/19/eMShRNquZg4QAcl.png" alt="eMShRNquZg4QAcl"></p><p><strong>总结:</strong></p><p>A. 利用缩放图层工具，可以快速把调整所选图层尺寸，也可以把边框粗细，阴影面积以及圆角等样式属性会被适当缩放</p><p>B. 也可以使用多个图层，调节图层的透明度来达到层次感</p><p>C. 只需要使用数字按键（1-0）就可设定透明度，比如 3 就是 30% 透明度</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>记录</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Sketch</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>生成 App 二维码步骤</title>
     <link href="/tool-qr-code/"/>
     <url>/tool-qr-code/</url>
@@ -204,6 +229,60 @@
       <tag>惠州</tag>
       
       <tag>旅游</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Sketch 学习笔记 03</title>
+    <link href="/sketch-learning-notes-03/"/>
+    <url>/sketch-learning-notes-03/</url>
+    
+    <content type="html"><![CDATA[<p><strong>图标设计初识</strong></p><h1 id="图标分类"><a href="#图标分类" class="headerlink" title="图标分类"></a><strong>图标分类</strong></h1><h3 id="功能性图标"><a href="#功能性图标" class="headerlink" title="功能性图标"></a><strong>功能性图标</strong></h3><p>简化 App 使用方式有着非常重要作用，精确和简洁的表现，易于用户识别和理解其含义</p><h3 id="装饰性图标"><a href="#装饰性图标" class="headerlink" title="装饰性图标"></a><strong>装饰性图标</strong></h3><p>对于 App 整体传播有着非常重要作用，丰富的色彩和细腻的形态，可以将信息准确及有趣的传达给用户</p><h1 id="做图标主要点"><a href="#做图标主要点" class="headerlink" title="做图标主要点"></a><strong>做图标主要点</strong></h1><h3 id="识别"><a href="#识别" class="headerlink" title="识别"></a><strong>识别</strong></h3><ol><li>是否能让用户看懂</li><li>是否阅读产生歧义</li><li>是否增加用户喜爱</li></ol><h3 id="颜色"><a href="#颜色" class="headerlink" title="颜色"></a><strong>颜色</strong></h3><ol><li>是否需要颜色辅助</li><li>是否符合用户习惯</li><li>是否符合产品风格</li></ol><h3 id="状态"><a href="#状态" class="headerlink" title="状态"></a><strong>状态</strong></h3><ol><li>是否正确表达用途</li><li>是否提供用户反馈</li><li>是否干扰用户思考</li></ol><h1 id="做图标注意点"><a href="#做图标注意点" class="headerlink" title="做图标注意点"></a><strong>做图标注意点</strong></h1><ol><li>图标设计的统一性</li><li>图标沾满像素格</li><li>脑洞不要太大</li><li>灵活的设计思路</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Sketch</tag>
+      
+      <tag>学习</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Sketch 学习笔记 02</title>
+    <link href="/sketch-learning-notes-02/"/>
+    <url>/sketch-learning-notes-02/</url>
+    
+    <content type="html"><![CDATA[<p><strong>一、Sketch插入基本形状绘制</strong></p><p>1、图形快捷键</p><p>矩形：R</p><p>圆角矩形： U</p><p>线条：L</p><p>圆形：O</p><p>中心控制：option</p><p>等边图形：shift</p><p><img src="https://i.loli.net/2020/10/20/teQaT2H84Gqc6Fb.png" alt="teQaT2H84Gqc6Fb"></p><p><strong>二、形状的常规属性</strong></p><p>1、复制方法：选择图形按 option 移动</p><p>2、对齐及分布</p><p><img src="https://i.loli.net/2020/10/20/3P8aImcLoCHlVQv.png" alt="3P8aImcLoCHlVQv"></p><p>3、位置（坐标）</p><p><img src="https://i.loli.net/2020/10/20/UalB4JycmCPrn1d.png" alt="UalB4JycmCPrn1d"></p><p>4、大小（宽高）</p><p><img src="https://i.loli.net/2020/10/20/GJOgF19cUBCM6Ta.png" alt="GJOgF19cUBCM6Ta"></p><p>5、角度</p><p><img src="https://i.loli.net/2020/10/20/e8kzicowBYJ1Dhb.png" alt="e8kzicowBYJ1Dhb"></p><p>6、水平/垂直翻转</p><p><img src="https://i.loli.net/2020/10/20/iJuKmClTVWcbPBk.png" alt="iJuKmClTVWcbPBk"></p><p>7、矩形圆角属性更改</p><p><img src="https://i.loli.net/2020/10/20/Rwc5HxD6Wabk4vi.png" alt="Rwc5HxD6Wabk4vi"></p><p><strong>三、样式属性及填充与描边</strong></p><p>1、共享样式：当绘制新图形可以将定义好的样式直接应用到新的图形上</p><p><img src="https://i.loli.net/2020/10/20/Y7kv1nQFlI4rAzN.png" alt="Y7kv1nQFlI4rAzN"></p><p>2、透明度（数字快捷键）</p><p><img src="https://i.loli.net/2020/10/20/B7R1lrjGe3y4TSV.png" alt="B7R1lrjGe3y4TSV"></p><p>3、混合模式</p><p><img src="https://i.loli.net/2020/10/20/LHqJAXdOylWE5cI.png" alt="LHqJAXdOylWE5cI"></p><p>4、填充(F)</p><p><img src="https://i.loli.net/2020/10/20/jwhQgZkXWmdF7iz.png" alt="jwhQgZkXWmdF7iz"></p><p>5、描边（B）</p><p><img src="https://i.loli.net/2020/10/20/XyzadOR36LtE1qP.png" alt="XyzadOR36LtE1qP"></p><p>6、吸管工具快捷键：control+c</p><p>7、填充快捷键：F</p><p>8、描边快捷键：B</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Sketch</tag>
+      
+      <tag>学习</tag>
       
     </tags>
     
