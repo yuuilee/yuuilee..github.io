@@ -17,7 +17,7 @@
   <meta name="description" content="爱我所爱，无怨无悔">
   <meta name="author" content="yuuilee">
   <meta name="keywords" content="">
-  <title>Sketch 学习软件操作 - yuuilee</title>
+  <title>《软件测试技术》05 - yuuilee</title>
 
   <link  rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />
 
@@ -150,7 +150,7 @@
 </nav>
 
     <div class="banner intro-2" id="background" parallax=true
-         style="background: url('https://i.loli.net/2020/10/18/4a5NxCdO9UEKpif.jpg') no-repeat center center;
+         style="background: url('https://i.loli.net/2020/10/18/8RYlTCkJynMghvc.jpg') no-repeat center center;
            background-size: cover;">
       <div class="full-bg-img">
         <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
@@ -165,8 +165,8 @@
   
     <span class="post-meta">
       <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-      <time datetime="2020-05-17 11:46" pubdate>
-        2020年5月17日 中午
+      <time datetime="2020-04-05 10:46" pubdate>
+        2020年4月5日 上午
       </time>
     </span>
   
@@ -177,7 +177,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      216 字
+      423 字
     </span>
   
 
@@ -187,7 +187,7 @@
       <i class="iconfont icon-clock-fill"></i>
       
       
-      2
+      4
        分钟
     </span>
   
@@ -217,57 +217,45 @@
         <div class="py-5" id="board">
           <article class="post-content mx-auto" id="post">
             <!-- SEO header -->
-            <h1 style="display: none">Sketch 学习软件操作</h1>
+            <h1 style="display: none">《软件测试技术》05</h1>
             
             <div class="markdown-body" id="post-body">
-              <h1 id="一、形状间的插入与编辑"><a href="#一、形状间的插入与编辑" class="headerlink" title="一、形状间的插入与编辑"></a><strong>一、形状间的插入与编辑</strong></h1><ol>
-<li>形状认识和操作</li>
+              <h1 id="一、测试套件设计"><a href="#一、测试套件设计" class="headerlink" title="一、测试套件设计"></a><strong>一、测试套件设计</strong></h1><p>执行测试前，先创建测试套件，再执行测试，这样便于后期的测试用例回归与结果跟踪（禅道-测试-套件）</p>
+<h1 id="二、执行冒烟测试"><a href="#二、执行冒烟测试" class="headerlink" title="二、执行冒烟测试"></a><strong>二、执行冒烟测试</strong></h1><ol>
+<li>验证其核心功能能否正常运行，如果其核心功能无法正常工作，则不必执行深度测试，这个过程一般称为“冒烟测试”</li>
+<li>冒烟测试，指利用较短的时间，对冒烟测试用例进行执行，保证被测对象核心功能能够正常工作</li>
 </ol>
-<p>![image-20201014120012108](/Users/yuuilee/Library/Application Support/typora-user-images/image-20201014120012108.png)</p>
-<h1 id="二、形状间的布尔运算"><a href="#二、形状间的布尔运算" class="headerlink" title="二、形状间的布尔运算"></a><strong>二、形状间的布尔运算</strong></h1><ol>
-<li>跟着教程画了 3 个小图标</li>
+<h1 id="三、执行正式测试"><a href="#三、执行正式测试" class="headerlink" title="三、执行正式测试"></a><strong>三、执行正式测试</strong></h1><ol>
+<li>功能测试</li>
+<li>流程测试</li>
+<li>安全测试</li>
+<li>兼容性测试</li>
+<li>性能测试</li>
+<li>接口测试</li>
 </ol>
-<p><img src="https://i.loli.net/2020/10/14/YwPoXGFaLvOljmE.png" srcset="/img/loading.gif" alt="YwPoXGFaLvOljmE"></p>
-<h1 id="三、图层样式"><a href="#三、图层样式" class="headerlink" title="三、图层样式"></a><strong>三、图层样式</strong></h1><ol>
-<li>从上到下：位置、大小、变换（旋转/翻转）、填充、描边、阴影、内阴影、模糊</li>
+<h1 id="四、测试执行规范"><a href="#四、测试执行规范" class="headerlink" title="四、测试执行规范"></a><strong>四、测试执行规范</strong></h1><ol>
+<li>测试执行前测试工程师预估时间，如有风险，及时上报</li>
+<li>优先级执行，冒烟-深度-从高到低-先流程后校验</li>
+<li>未执行用例、标志为删除或者无效的用例，需标注原因</li>
+<li>有疑问的测试用例，及时检查</li>
+<li>对用例描述的检查点逐一检查，避免遗漏</li>
+<li>发现用例存在错误，及时记录</li>
 </ol>
-<p>" srcset="/img/loading.gif<img src="" alt="zU8W3sXBET9Cjg2"><br>2.  半径、共享样式、不透明度</p>
-<p>![image-20201014120220196](/Users/yuuilee/Library/Application Support/typora-user-images/image-20201014120220196.png)</p>
-<h1 id="四、工具栏调整与使用"><a href="#四、工具栏调整与使用" class="headerlink" title="四、工具栏调整与使用"></a><strong>四、工具栏调整与使用</strong></h1><ol>
-<li>合并形状，剪去顶层 区域相交 排除重叠</li>
+<h1 id="五、缺陷跟踪处理"><a href="#五、缺陷跟踪处理" class="headerlink" title="五、缺陷跟踪处理"></a><strong>五、缺陷跟踪处理</strong></h1><ol>
+<li>严重程度（禅道中以数字1、2、3、4表示）</li>
+<li>状态（禅道以激活、已解决、已关闭状态）</li>
+<li>缺陷类型</li>
+<li>所属模块</li>
 </ol>
-<p><img src="https://i.loli.net/2020/10/14/giqOwLP6DuyWb7r.png" srcset="/img/loading.gif" alt="giqOwLP6DuyWb7r"></p>
-<ol start="2">
-<li>创建组件、分组、取消分组</li>
+<h1 id="六、确认回归测试"><a href="#六、确认回归测试" class="headerlink" title="六、确认回归测试"></a><strong>六、确认回归测试</strong></h1><ol>
+<li>确认缺陷是否修复</li>
+<li>执行用例回归测试</li>
 </ol>
-<p><img src="https://i.loli.net/2020/10/14/EoPZB4keJiwhR5p.png" srcset="/img/loading.gif" alt="EoPZB4keJiwhR5p"></p>
-<ol start="3">
-<li>编辑、变换、旋转、拼合、蒙板、缩放、创建网格</li>
+<h1 id="七、测试报告输出"><a href="#七、测试报告输出" class="headerlink" title="七、测试报告输出"></a><strong>七、测试报告输出</strong></h1><ol>
+<li>Bug 情况（数量、严重度、类型、状态）</li>
+<li>测试报告内容（用例执行情况、缺陷分布、遗留缺陷情况、版本质量评价）</li>
 </ol>
-<p><img src="https://i.loli.net/2020/10/14/Q7ytS8Zw1bjVnue.png" srcset="/img/loading.gif" alt="Q7ytS8Zw1bjVnue"></p>
-<h1 id="五、图片和文本"><a href="#五、图片和文本" class="headerlink" title="五、图片和文本"></a><strong>五、图片和文本</strong></h1><h1 id="六、复用样式与符号"><a href="#六、复用样式与符号" class="headerlink" title="六、复用样式与符号"></a><strong>六、复用样式与符号</strong></h1><ol>
-<li><p>统一改变字体、图标</p>
-</li>
-<li><p>复用符号</p>
-</li>
-</ol>
-<p><img src="https://i.loli.net/2020/10/14/9EqdcaHPTLYG5Nn.png" srcset="/img/loading.gif" alt="9EqdcaHPTLYG5Nn"></p>
-<h1 id="七、导出与标注"><a href="#七、导出与标注" class="headerlink" title="七、导出与标注"></a><strong>七、导出与标注</strong></h1><ol>
-<li><p>拉出导出</p>
-</li>
-<li><p>图标导出插件</p>
-</li>
-</ol>
-<p><img src="https://i.loli.net/2020/10/14/H5WOA9Uqvd4jcMm.png" srcset="/img/loading.gif" alt="H5WOA9Uqvd4jcMm"></p>
-<p><img src="https://i.loli.net/2020/10/14/VOtny4IgPkLYuzc.png" srcset="/img/loading.gif" alt="VOtny4IgPkLYuzc"></p>
-<ol start="3">
-<li>网页导出插件</li>
-</ol>
-<p><img src="https://i.loli.net/2020/10/14/kMVfhyjzqbWdeuw.png" srcset="/img/loading.gif" alt="kMVfhyjzqbWdeuw"></p>
-<h1 id="八、插件使用与安装"><a href="#八、插件使用与安装" class="headerlink" title="八、插件使用与安装"></a><strong>八、插件使用与安装</strong></h1><ol>
-<li>Sketch 插件网站</li>
-</ol>
-<p><img src="https://i.loli.net/2020/10/14/d9KEsAqwgH6b8GP.png" srcset="/img/loading.gif" alt="d9KEsAqwgH6b8GP"></p>
+<p><strong>备注：利用禅道项目管理工具进行有效跟踪及管理缺陷</strong></p>
 
             </div>
             <hr>
@@ -285,7 +273,9 @@
                   <div class="post-meta">
                     <i class="iconfont icon-tags"></i>
                     
-                      <a class="hover-with-bg" href="/tags/Sketch/">Sketch</a>
+                      <a class="hover-with-bg" href="/tags/%E6%B5%8B%E8%AF%95/">测试</a>
+                    
+                      <a class="hover-with-bg" href="/tags/%E7%A6%85%E9%81%93/">禅道</a>
                     
                   </div>
                 
@@ -298,9 +288,9 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/sketch-learning%20notes-01/">
+                      <a href="/ps-introduction-learning/">
                         <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">Sketch 学习笔记 01</span>
+                        <span class="hidden-mobile">PS 入门学习</span>
                         <span class="visible-mobile">上一篇</span>
                       </a>
                     
@@ -308,8 +298,8 @@
                   <article class="post-next col-6">
                     
                     
-                      <a href="/ps-tool%20introduction-02/">
-                        <span class="hidden-mobile">PS 工具介绍 02</span>
+                      <a href="/note-software-testing-technology-04/">
+                        <span class="hidden-mobile">《软件测试技术》04</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
@@ -452,7 +442,7 @@
     var typed = new Typed('#subtitle', {
       strings: [
         '  ',
-        "Sketch 学习软件操作&nbsp;",
+        "《软件测试技术》05&nbsp;",
       ],
       cursorChar: "_",
       typeSpeed: 70,
