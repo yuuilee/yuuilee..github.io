@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>免费的 App 云测平台推荐</title>
+    <link href="/note-app-test/"/>
+    <url>/note-app-test/</url>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>现在市场上的云测平台只要用掉赠送的可用的额度，都需付费使用，价格上还不便宜，比如 Testin云测，虽然终端种类及数量都比较全面，但绝大多数服务都是收费项目，所以使用成本较高。这边推荐目前市场上使用较多的 Android 手机小米和华为</p><p><img src="https://i.loli.net/2020/11/16/NIzfrjKg3eaxtwC.png" alt="NIzfrjKg3eaxtwC"></p><h3 id="小米云测平台"><a href="#小米云测平台" class="headerlink" title="小米云测平台"></a>小米云测平台</h3><p><a href="https://dev.mi.com/console/appservice/test.html">https://dev.mi.com/console/appservice/test.html</a></p><p>1.先登录小米开发者账号</p><p><img src="https://i.loli.net/2020/11/16/iwnVr6eQkx5J4j9.png" alt="iwnVr6eQkx5J4j9"></p><p>2.选择应用服务-云测服务，进入测试界面</p><p><img src="https://i.loli.net/2020/11/16/5pz6tZQFSi7m3uj.png" alt="5pz6tZQFSi7m3uj"></p><ol start="3"><li>选择创建任务，开发和测试人员都可以验证 App 的兼容性、内存泄露、主线程耗时，目前每人每天所有新建任务的设备总数不能超过 60 个</li></ol><p><img src="https://i.loli.net/2020/11/16/vL1XG9BACF7ZaoW.png" alt="vL1XG9BACF7ZaoW"></p><p>4.选择真机调试，开发人员可以进入 App 的开发调试，目前每人每天有 30 次调试机会，每次最长使用时间为 1 小时，超时将会被自动归还</p><p><img src="https://i.loli.net/2020/11/16/vj6cx7ro9l3qP5G.png" alt="vj6cx7ro9l3qP5G"></p><h3 id="华为云测平台"><a href="#华为云测平台" class="headerlink" title="华为云测平台"></a>华为云测平台</h3><p><a href="https://developer.huawei.com/consumer/cn/console#/serviceCards/AppService">https://developer.huawei.com/consumer/cn/console#/serviceCards/AppService</a></p><p>1.先登录华为开发者账号</p><p><img src="https://i.loli.net/2020/11/16/uHibkyQ2NKw9xIT.png" alt="uHibkyQ2NKw9xIT"></p><p>2.选择应用服务-云测试，开发和测试人员都可以验证 App 的兼容性、稳定性、性能、功耗等测试，每天只能测 5 次任务</p><p><img src="https://i.loli.net/2020/11/16/AkKG98dhY12REN4.png" alt="AkKG98dhY12REN4"></p><p>3.选择应用服务-云调试，通过远程连接方式控制云端 Android 设备进行开发调试，目前是有 24 小时的使用时间，用完在申请续时</p><p><img src="https://i.loli.net/2020/11/16/AkKG98dhY12REN4.png" alt="AkKG98dhY12REN4"></p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>1.可通过兼容测试定位问题机型，在通过云测试选择指定机型全面测试</p><p>2.以上介绍的平台只有小米和华为的手机，可以跟 Testin云测搭配使用，毕竟 Testin云测机型覆盖范围广</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+      <tag>小米云测平台 华为云测平台 Testin云测</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Sketch 快捷键</title>
     <link href="/sketch-shortcut-key/"/>
     <url>/sketch-shortcut-key/</url>
