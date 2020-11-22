@@ -17,7 +17,7 @@
   <meta name="description" content="爱我所爱，无怨无悔">
   <meta name="author" content="yuuilee">
   <meta name="keywords" content="">
-  <title>Sketch 快捷键 - yuuilee</title>
+  <title>hexo：fluid 主题添加著作版权声明 - yuuilee</title>
 
   <link  rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />
 
@@ -150,7 +150,7 @@
 </nav>
 
     <div class="banner intro-2" id="background" parallax=true
-         style="background: url('https://i.loli.net/2020/10/18/4a5NxCdO9UEKpif.jpg') no-repeat center center;
+         style="background: url('https://i.loli.net/2020/10/18/8RYlTCkJynMghvc.jpg') no-repeat center center;
            background-size: cover;">
       <div class="full-bg-img">
         <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
@@ -165,8 +165,8 @@
   
     <span class="post-meta">
       <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-      <time datetime="2020-09-27 17:46" pubdate>
-        2020年9月27日 下午
+      <time datetime="2020-11-22 10:46" pubdate>
+        2020年11月22日 上午
       </time>
     </span>
   
@@ -177,7 +177,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      266 字
+      222 字
     </span>
   
 
@@ -187,7 +187,7 @@
       <i class="iconfont icon-clock-fill"></i>
       
       
-      2
+      3
        分钟
     </span>
   
@@ -217,19 +217,43 @@
         <div class="py-5" id="board">
           <article class="post-content mx-auto" id="post">
             <!-- SEO header -->
-            <h1 style="display: none">Sketch 快捷键</h1>
+            <h1 style="display: none">hexo：fluid 主题添加著作版权声明</h1>
             
             <div class="markdown-body" id="post-body">
-              <p><strong>一、等距离复制图形</strong></p>
-<p>A.选中元素，按住 Option/Alt 不放，就是复制，拖动到合适的位置</p>
-<p>B. 保持元素选中状态，连续按 Command+D ，就可以等距离复制了</p>
-<p><strong>二、拾色器</strong></p>
-<p>A. 选中文字或形状后，按下 Ctrl + C，就会出现拾色器，改变文字的颜色和形状的填充色。也可以用拾色器选取 Sketch 外其他软件的颜色</p>
-<p><strong>三、查看任意对象之间的距离</strong></p>
-<p>A. 选中对象按 Alt 键，可以查看对象与其他对象之间的距离，但当其他对象处于编组中时，默认查看的是对象与编组的距离。</p>
-<p>B. 查看对象与其他组内对象的距离，我们可以同时按住 Alt + Cmd，就可以查看任意两个对象之间的距离啦</p>
-<p><strong>四、复制、粘贴文字或形状样式</strong> </p>
-<p>A. 按 Alt + Command + C 复制文字或形状的样式后，可以通过 Alt + Command + V 粘贴到其他对象上(有点像 word 里的格式刷)</p>
+              <p>版权声明是指在文末加上这么一段文字：</p>
+<p><img src="https://i.loli.net/2020/11/22/ErxAfeuFXGki5L3.png" srcset="/img/loading.gif" alt="ErxAfeuFXGki5L3"></p>
+<ol>
+<li><p>打开 <code>themes\fluid\layout</code> 中的 <code>post.ejs</code> 文件</p>
+</li>
+<li><p>找到以下内容进行修改：</p>
+</li>
+</ol>
+<pre><code class="hljs stata">&lt;% <span class="hljs-keyword">if</span>(theme.<span class="hljs-keyword">post</span>.<span class="hljs-keyword">copyright</span>.enable &amp;&amp; theme.<span class="hljs-keyword">post</span>.<span class="hljs-keyword">copyright</span>.content &amp;&amp; page.<span class="hljs-keyword">copyright</span> !== false) &#123; %&gt;&lt;p <span class="hljs-keyword">class</span>=<span class="hljs-string">&quot;note note-warning&quot;</span>&gt;&lt;%-theme.<span class="hljs-keyword">post</span>.<span class="hljs-keyword">copyright</span>.content%&gt;
+&lt;/p&gt;
+&lt;% &#125; %&gt;</code></pre>
+
+<ol start="3">
+<li>替换为以下代码：</li>
+</ol>
+<pre><code class="hljs erb"><span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">%</span></span></span><span class="ruby"> <span class="hljs-keyword">if</span>(theme.post.copyright.enable &amp;&amp; theme.post.copyright.content &amp;&amp; page.copyright !== <span class="hljs-literal">false</span>) &#123; </span><span class="xml"><span class="hljs-tag">%&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;note note-warning&quot;</span>&gt;</span></span>
+<span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">strong</span>&gt;</span>本文作者: <span class="hljs-tag">&lt;/<span class="hljs-name">strong</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&lt;%-</span></span></span><span class="ruby"> url_for() </span><span class="xml"><span class="hljs-tag"><span class="hljs-string">%&gt;&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">%-</span></span></span><span class="ruby"> theme.about.name <span class="hljs-params">||</span> config.author <span class="hljs-params">||</span> config.title </span><span class="xml"><span class="hljs-tag">%&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span> <span class="hljs-tag">&lt;<span class="hljs-name">br</span>&gt;</span></span>
+<span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">strong</span>&gt;</span>本文链接: <span class="hljs-tag">&lt;/<span class="hljs-name">strong</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&lt;%-</span></span></span><span class="ruby"> full_url_for(page.path) </span><span class="xml"><span class="hljs-tag"><span class="hljs-string">%&gt;&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">%-</span></span></span><span class="ruby">full_url_for(page.path) </span><span class="xml"><span class="hljs-tag">%&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span> <span class="hljs-tag">&lt;<span class="hljs-name">br</span>&gt;</span></span>
+<span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">strong</span>&gt;</span>版权声明: <span class="hljs-tag">&lt;/<span class="hljs-name">strong</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">%-</span></span></span><span class="ruby"> theme.post.copyright.content </span><span class="xml"><span class="hljs-tag">%&gt;</span></span>
+<span class="xml"><span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span></span>
+<span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">%</span></span></span><span class="ruby"> &#125; </span><span class="xml"><span class="hljs-tag">%&gt;</span></span></code></pre>
+
+<ol start="4">
+<li><p>保存文件</p>
+</li>
+<li><p>cd 博客目录</p>
+</li>
+<li><p><code>hexo clean</code></p>
+</li>
+<li><p><code>hexo s</code></p>
+</li>
+<li><p>就可以查看效果啦</p>
+</li>
+</ol>
 
             </div>
             <hr>
@@ -247,16 +271,16 @@
                   <div class="post-meta">
                     <i class="iconfont icon-tags"></i>
                     
-                      <a class="hover-with-bg" href="/tags/Sketch/">Sketch</a>
+                      <a class="hover-with-bg" href="/tags/hexo-fluid/">hexo fluid</a>
                     
-                      <a class="hover-with-bg" href="/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/">快捷键</a>
+                      <a class="hover-with-bg" href="/tags/%E7%89%88%E6%9D%83/">版权</a>
                     
                   </div>
                 
               </div>
            <p class="note note-warning">
            <strong>本文作者: </strong><a href="/">myname</a> <br>
-           <strong>本文链接: </strong><a href="http://www.yuuilee.com/sketch-shortcut-key/">http://www.yuuilee.com/sketch-shortcut-key/</a> <br>
+           <strong>本文链接: </strong><a href="http://www.yuuilee.com/note-hexo-fluid-copyright-statement/">http://www.yuuilee.com/note-hexo-fluid-copyright-statement/</a> <br>
            <strong>版权声明: </strong>本博客所有文章除特别声明外，均采用 <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" rel="nofollow noopener noopener">CC BY-SA 4.0 协议</a> ，转载请注明出处！
            </p>
            
@@ -265,18 +289,12 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/note-app-test/">
-                        <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">免费的 App 云测平台推荐</span>
-                        <span class="visible-mobile">上一篇</span>
-                      </a>
-                    
                   </article>
                   <article class="post-next col-6">
                     
                     
-                      <a href="/sketch-design-code-01/">
-                        <span class="hidden-mobile">UI 设计规范</span>
+                      <a href="/note-app-test/">
+                        <span class="hidden-mobile">免费的 App 云测平台推荐</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
@@ -419,7 +437,7 @@
     var typed = new Typed('#subtitle', {
       strings: [
         '  ',
-        "Sketch 快捷键&nbsp;",
+        "hexo：fluid 主题添加著作版权声明&nbsp;",
       ],
       cursorChar: "_",
       typeSpeed: 70,
