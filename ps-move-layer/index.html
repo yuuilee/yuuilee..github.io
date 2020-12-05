@@ -17,7 +17,7 @@
   <meta name="description" content="爱我所爱，无怨无悔">
   <meta name="author" content="yuuilee">
   <meta name="keywords" content="">
-  <title>hexo：fluid 主题添加著作版权声明 - yuuilee</title>
+  <title>ps 如何复制图层组到另一文件文档上 - yuuilee</title>
 
   <link  rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />
 
@@ -150,7 +150,7 @@
 </nav>
 
     <div class="banner intro-2" id="background" parallax=true
-         style="background: url('https://i.loli.net/2020/10/18/8RYlTCkJynMghvc.jpg') no-repeat center center;
+         style="background: url('https://i.loli.net/2020/10/19/2KrDjd5QuZHUCBF.jpg') no-repeat center center;
            background-size: cover;">
       <div class="full-bg-img">
         <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
@@ -165,8 +165,8 @@
   
     <span class="post-meta">
       <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-      <time datetime="2020-11-29 10:46" pubdate>
-        2020年11月29日 上午
+      <time datetime="2020-12-05 11:00" pubdate>
+        2020年12月5日 上午
       </time>
     </span>
   
@@ -177,7 +177,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      241 字
+      362 字
     </span>
   
 
@@ -187,7 +187,7 @@
       <i class="iconfont icon-clock-fill"></i>
       
       
-      4
+      3
        分钟
     </span>
   
@@ -217,47 +217,24 @@
         <div class="py-5" id="board">
           <article class="post-content mx-auto" id="post">
             <!-- SEO header -->
-            <h1 style="display: none">hexo：fluid 主题添加著作版权声明</h1>
+            <h1 style="display: none">ps 如何复制图层组到另一文件文档上</h1>
             
             <div class="markdown-body" id="post-body">
-              <h4 id="版权声明是指在文末加上这么一段文字"><a href="#版权声明是指在文末加上这么一段文字" class="headerlink" title="版权声明是指在文末加上这么一段文字"></a>版权声明是指在文末加上这么一段文字</h4><p><img src="https://i.loli.net/2020/11/22/4TpxEVeOnJazfoR.png" srcset="/img/loading.gif" alt="4TpxEVeOnJazfoR"></p>
-<ol>
-<li><p>打开 <code>themes\fluid\layout</code> 中的 <code>post.ejs</code> 文件</p>
-</li>
-<li><p>找到以下内容进行修改：</p>
-</li>
-</ol>
-<pre><code class="hljs stata">&lt;% <span class="hljs-keyword">if</span>(theme.<span class="hljs-keyword">post</span>.<span class="hljs-keyword">copyright</span>.enable &amp;&amp; theme.<span class="hljs-keyword">post</span>.<span class="hljs-keyword">copyright</span>.content &amp;&amp; page.<span class="hljs-keyword">copyright</span> !== false) &#123; %&gt;&lt;p <span class="hljs-keyword">class</span>=<span class="hljs-string">&quot;note note-warning&quot;</span>&gt;&lt;%-theme.<span class="hljs-keyword">post</span>.<span class="hljs-keyword">copyright</span>.content%&gt;
-&lt;/p&gt;
-&lt;% &#125; %&gt;</code></pre>
-
-<ol start="3">
-<li>替换为以下代码：</li>
-</ol>
-<pre><code class="hljs erb"><span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">%</span></span></span><span class="ruby"> <span class="hljs-keyword">if</span>(theme.post.copyright.enable &amp;&amp; theme.post.copyright.content &amp;&amp; page.copyright !== <span class="hljs-literal">false</span>) &#123; </span><span class="xml"><span class="hljs-tag">%&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;note note-warning&quot;</span>&gt;</span></span>
-<span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">strong</span>&gt;</span>本文作者: <span class="hljs-tag">&lt;/<span class="hljs-name">strong</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&lt;%-</span></span></span><span class="ruby"> url_for() </span><span class="xml"><span class="hljs-tag"><span class="hljs-string">%&gt;&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">%-</span></span></span><span class="ruby"> theme.about.name <span class="hljs-params">||</span> config.author <span class="hljs-params">||</span> config.title </span><span class="xml"><span class="hljs-tag">%&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span> <span class="hljs-tag">&lt;<span class="hljs-name">br</span>&gt;</span></span>
-<span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">strong</span>&gt;</span>本文链接: <span class="hljs-tag">&lt;/<span class="hljs-name">strong</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;&lt;%-</span></span></span><span class="ruby"> full_url_for(page.path) </span><span class="xml"><span class="hljs-tag"><span class="hljs-string">%&gt;&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">%-</span></span></span><span class="ruby">full_url_for(page.path) </span><span class="xml"><span class="hljs-tag">%&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span> <span class="hljs-tag">&lt;<span class="hljs-name">br</span>&gt;</span></span>
-<span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">strong</span>&gt;</span>版权声明: <span class="hljs-tag">&lt;/<span class="hljs-name">strong</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">%-</span></span></span><span class="ruby"> theme.post.copyright.content </span><span class="xml"><span class="hljs-tag">%&gt;</span></span>
-<span class="xml"><span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span></span>
-<span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">%</span></span></span><span class="ruby"> &#125; </span><span class="xml"><span class="hljs-tag">%&gt;</span></span></code></pre>
-
-<ol start="4">
-<li>保存文件</li>
-<li>打开 <code>themes\fluid\layout</code> 中的 <code>config.yml</code> 文件，修改下<code>name</code></li>
-</ol>
-<p><img src="https://i.loli.net/2020/11/22/FGUftpdaV261lRe.png" srcset="/img/loading.gif" alt="FGUftpdaV261lRe"></p>
-<ol start="6">
-<li><p>保存文件</p>
-</li>
-<li><p>cd 博客目录</p>
-</li>
-<li><p><code>hexo clean</code></p>
-</li>
-<li><p><code>hexo s</code></p>
-</li>
-<li><p>就可以查看效果啦</p>
-</li>
-</ol>
+              <p>使用 ps 做设计的过程中，需要把一个组或者多个图层转移到另外一个文档，那么这种情况应该如何处理，只是用移动工具拖拽么？如果要把图层移动到新建的文档应该如何操作？</p>
+<p>ps 打开两个文档，左边第一个文档中需要复制到未标题-1中，那么最为简单的方法就是直接使用移动工具拖拽</p>
+<p><img src="https://i.loli.net/2020/12/05/FaNEmrby5lIuqBh.png" srcset="/img/loading.gif" alt="FaNEmrby5lIuqBh"></p>
+<p><img src="https://i.loli.net/2020/12/05/38DKa4tFJvu2yiB.png" srcset="/img/loading.gif" alt="38DKa4tFJvu2yiB"></p>
+<p>如果是多个图层，拖拽可能会出现问题，显示不是最佳操作方式，点击选中需要复制的图层，然后点击导航中的【图层】，下拉菜单里面继续点击【复制图层】，或者右键点选中需要复制的图层，然后点击下拉菜单里面继续点击【复制图层】</p>
+<p><img src="https://i.loli.net/2020/12/05/jlZOVoNq7H8tSzW.png" srcset="/img/loading.gif" alt="jlZOVoNq7H8tSzW"></p>
+<p><img src="https://i.loli.net/2020/12/05/GojzK8XhiYmvLg2.png" srcset="/img/loading.gif" alt="GojzK8XhiYmvLg2"></p>
+<p>弹出的界面上，点击目标一栏中的【文档】，可以看到当前文档名称，还有未标题-1和新建，这里我们选上【未标题-1】</p>
+<p><img src="https://i.loli.net/2020/12/05/TdxYQKDUrq6vL5G.png" srcset="/img/loading.gif" alt="TdxYQKDUrq6vL5G"></p>
+<p>点击确定之后，切换至未标题-1，可以看到图层已经出现在图层面板中了</p>
+<p><img src="https://i.loli.net/2020/12/05/cQORMnkiTB2VU6a.png" srcset="/img/loading.gif" alt="cQORMnkiTB2VU6a"></p>
+<p>如果是需要单独处理某个图层或多个图层，只需要选中该图层，弹出的【复制图层】界面上，把目标文档设置为【新建】，名称可填也可以空着</p>
+<p><img src="https://i.loli.net/2020/12/05/rzkIE2yQMWSm7Bq.png" srcset="/img/loading.gif" alt="rzkIE2yQMWSm7Bq"></p>
+<p>自动创建的【未标题】文档中，即可看到复制的图层</p>
+<p><img src="https://i.loli.net/2020/12/05/uSQNiYfKHvBt2rd.png" srcset="/img/loading.gif" alt="uSQNiYfKHvBt2rd"></p>
 
             </div>
             <hr>
@@ -275,16 +252,14 @@
                   <div class="post-meta">
                     <i class="iconfont icon-tags"></i>
                     
-                      <a class="hover-with-bg" href="/tags/hexo-fluid/">hexo fluid</a>
-                    
-                      <a class="hover-with-bg" href="/tags/%E7%89%88%E6%9D%83/">版权</a>
+                      <a class="hover-with-bg" href="/tags/PS/">PS</a>
                     
                   </div>
                 
               </div>
            <p class="note note-warning">
            <strong>本文作者: </strong><a href="/">yuuilee</a> <br>
-           <strong>本文链接: </strong><a href="http://www.yuuilee.com/note-hexo-fluid-copyright-statement/">http://www.yuuilee.com/note-hexo-fluid-copyright-statement/</a> <br>
+           <strong>本文链接: </strong><a href="http://www.yuuilee.com/ps-move-layer/">http://www.yuuilee.com/ps-move-layer/</a> <br>
            <strong>版权声明: </strong>本博客所有文章除特别声明外，均采用 <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" rel="nofollow noopener noopener">CC BY-SA 4.0 协议</a> ，转载请注明出处！
            </p>
            
@@ -293,18 +268,12 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/ps-move-layer/">
-                        <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">ps 如何复制图层组到另一文件文档上</span>
-                        <span class="visible-mobile">上一篇</span>
-                      </a>
-                    
                   </article>
                   <article class="post-next col-6">
                     
                     
-                      <a href="/note-test-case-template/">
-                        <span class="hidden-mobile">App 测试用例模板</span>
+                      <a href="/note-hexo-fluid-copyright-statement/">
+                        <span class="hidden-mobile">hexo：fluid 主题添加著作版权声明</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
@@ -447,7 +416,7 @@
     var typed = new Typed('#subtitle', {
       strings: [
         '  ',
-        "hexo：fluid 主题添加著作版权声明&nbsp;",
+        "ps 如何复制图层组到另一文件文档上&nbsp;",
       ],
       cursorChar: "_",
       typeSpeed: 70,

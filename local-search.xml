@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>ps 如何复制图层组到另一文件文档上</title>
+    <link href="/ps-move-layer/"/>
+    <url>/ps-move-layer/</url>
+    
+    <content type="html"><![CDATA[<p>使用 ps 做设计的过程中，需要把一个组或者多个图层转移到另外一个文档，那么这种情况应该如何处理，只是用移动工具拖拽么？如果要把图层移动到新建的文档应该如何操作？</p><p>ps 打开两个文档，左边第一个文档中需要复制到未标题-1中，那么最为简单的方法就是直接使用移动工具拖拽</p><p><img src="https://i.loli.net/2020/12/05/FaNEmrby5lIuqBh.png" alt="FaNEmrby5lIuqBh"></p><p><img src="https://i.loli.net/2020/12/05/38DKa4tFJvu2yiB.png" alt="38DKa4tFJvu2yiB"></p><p>如果是多个图层，拖拽可能会出现问题，显示不是最佳操作方式，点击选中需要复制的图层，然后点击导航中的【图层】，下拉菜单里面继续点击【复制图层】，或者右键点选中需要复制的图层，然后点击下拉菜单里面继续点击【复制图层】</p><p><img src="https://i.loli.net/2020/12/05/jlZOVoNq7H8tSzW.png" alt="jlZOVoNq7H8tSzW"></p><p><img src="https://i.loli.net/2020/12/05/GojzK8XhiYmvLg2.png" alt="GojzK8XhiYmvLg2"></p><p>弹出的界面上，点击目标一栏中的【文档】，可以看到当前文档名称，还有未标题-1和新建，这里我们选上【未标题-1】</p><p><img src="https://i.loli.net/2020/12/05/TdxYQKDUrq6vL5G.png" alt="TdxYQKDUrq6vL5G"></p><p>点击确定之后，切换至未标题-1，可以看到图层已经出现在图层面板中了</p><p><img src="https://i.loli.net/2020/12/05/cQORMnkiTB2VU6a.png" alt="cQORMnkiTB2VU6a"></p><p>如果是需要单独处理某个图层或多个图层，只需要选中该图层，弹出的【复制图层】界面上，把目标文档设置为【新建】，名称可填也可以空着</p><p><img src="https://i.loli.net/2020/12/05/rzkIE2yQMWSm7Bq.png" alt="rzkIE2yQMWSm7Bq"></p><p>自动创建的【未标题】文档中，即可看到复制的图层</p><p><img src="https://i.loli.net/2020/12/05/uSQNiYfKHvBt2rd.png" alt="uSQNiYfKHvBt2rd"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>PS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>hexo：fluid 主题添加著作版权声明</title>
     <link href="/note-hexo-fluid-copyright-statement/"/>
     <url>/note-hexo-fluid-copyright-statement/</url>
