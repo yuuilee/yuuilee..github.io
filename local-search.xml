@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>ps 解决 Google 账号注册中国大陆手机号无法验证问题</title>
+    <link href="/%20note-google-account/"/>
+    <url>/%20note-google-account/</url>
+    
+    <content type="html"><![CDATA[<p>像往常一样申请 Google 开发者账号，填写资料，没想到卡在“验证您的手机号码“这一步，提示：<strong>此号码无法用于进行验证</strong></p><p>1.创建账号：选择该账号是用于个人还是公司</p><p> <a href="https://accounts.google.com/">https://accounts.google.com/</a> </p><p><img src="https://i.loli.net/2020/12/11/EW1xiFgZ7OH8zyl.png" alt="EW1xiFgZ7OH8zyl"></p><p>2.创建您的 Google 账号</p><p><img src="https://i.loli.net/2020/12/11/RP9UHdoeKQuvXpm.png" alt="RP9UHdoeKQuvXpm"></p><p>3.验证您的手机号码：输入你想绑定的手机号（遇到问题啦）</p><p><img src="https://i.loli.net/2020/12/12/XO6ecFtWqAn78Su.png" alt="XO6ecFtWqAn78Su">                                                                </p><p><img src="https://i.loli.net/2020/12/18/jlH3zZfeGKgoVby.jpg" alt="jlH3zZfeGKgoVby"></p><h3 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h3><ol><li>打开 Google 浏览器（Chrome）,在浏览器右上角选择选项图标，并在弹出的菜单中选择设置</li></ol><p><img src="https://i.loli.net/2020/12/18/Uy8bnPqpl9VL5hG.png" alt="Uy8bnPqpl9VL5hG"></p><ol start="2"><li>在设置页面选择高级选项，然后选择语言的添加语言</li></ol><p><img src="https://i.loli.net/2020/12/18/H86EgWrZmyn71NM.png" alt="H86EgWrZmyn71NM"></p><ol start="3"><li>设定英语为网页翻译成此语言，最后重新启动浏览器</li></ol><p><img src="https://i.loli.net/2020/12/18/9DoRUack5l6MFGr.png" alt="9DoRUack5l6MFGr"></p><ol start="4"><li><p>再次尝试建立Google账户，最后就可以成功收到验证码</p></li><li><p>最后再按照刚才的方式修改回简体中文就好了</p></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Google</tag>
+      
+      <tag>账号</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>ps 如何复制图层组到另一文件文档上</title>
     <link href="/ps-move-layer/"/>
     <url>/ps-move-layer/</url>
